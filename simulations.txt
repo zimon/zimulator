@@ -1,0 +1,5 @@
+y_scenario konvergenzzeit60sec rip 10 5
+square3 konvergenzzeit60sec rip 10 5
+
+y_scenario routerausfall60_300 rip 10 5
+square3 routerausfall60_300 rip 10 5

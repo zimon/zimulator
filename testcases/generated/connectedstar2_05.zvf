@@ -1,0 +1,15 @@
+# connectedstar2_05
+#
+# longest shortest path: 	2
+# number of cycles: 		4
+# clustering coefficient: 	0.666666666666667
+# own clustering coefficient: 	0.8
+# leaves: 			
+# articulations: 		
+
+net1,net2,net3,net4,net5,net6,net7,net8
+r1 net1,net5,net8
+r2 net2,net5,net6
+r3 net3,net6,net7
+r4 net4,net7,net8
+r5 net1,net2,net3,net4

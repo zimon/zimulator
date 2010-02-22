@@ -1,0 +1,22 @@
+net1,net2,net3,net4,net5,net6,net7,net8,net9,net10,net11,net12,net13,net14,net15,net16,net17,net18,net19,net20
+
+r1 net1,net20
+r2 net1,net2
+r3 net2,net3
+r4 net3,net4
+r5 net4,net5
+r6 net5,net6
+r7 net6,net7
+r8 net7,net8
+r9 net8,net9
+r10 net9,net10
+r11 net10,net11
+r12 net11,net12
+r13 net12,net13
+r14 net13,net14
+r15 net14,net15
+r16 net15,net16
+r17 net16,net17
+r18 net17,net18
+r19 net18,net19
+r20 net19,net20

@@ -1,0 +1,3407 @@
+00:00:00:000000:
+12:32:42:050035 - 10.0.1.1:
+	0.0.0.0 with metric 16
+
+00:00:00:000305:
+12:32:42:050340 - 10.0.16.1:
+	0.0.0.0 with metric 16
+
+00:00:00:022667:
+12:32:42:072702 - 10.0.1.2:
+	0.0.0.0 with metric 16
+
+00:00:00:022972:
+12:32:42:073007 - 10.0.2.2:
+	0.0.0.0 with metric 16
+
+00:00:00:023378:
+12:32:42:073413 - 10.0.15.2:
+	0.0.0.0 with metric 16
+
+00:00:00:030006:
+12:32:42:080041 - 10.0.2.3:
+	0.0.0.0 with metric 16
+
+00:00:00:030305:
+12:32:42:080340 - 10.0.3.3:
+	0.0.0.0 with metric 16
+
+00:00:00:030708:
+12:32:42:080743 - 10.0.12.3:
+	0.0.0.0 with metric 16
+
+00:00:00:044350:
+12:32:42:094385 - 10.0.1.1:
+	10.0.16.0 with metric 1
+
+00:00:00:055153:
+12:32:42:105188 - 10.0.2.2:
+	10.0.1.0 with metric 1
+	10.0.15.0 with metric 1
+
+00:00:00:060823:
+12:32:42:110858 - 10.0.3.4:
+	0.0.0.0 with metric 16
+
+00:00:00:061139:
+12:32:42:111174 - 10.0.4.4:
+	0.0.0.0 with metric 16
+
+00:00:00:061548:
+12:32:42:111583 - 10.0.5.4:
+	0.0.0.0 with metric 16
+
+00:00:00:061910:
+12:32:42:111945 - 10.0.7.4:
+	0.0.0.0 with metric 16
+
+00:00:00:081285:
+12:32:42:131320 - 10.0.3.3:
+	10.0.1.0 with metric 2
+	10.0.12.0 with metric 1
+	10.0.15.0 with metric 2
+	10.0.2.0 with metric 1
+
+00:00:00:086279:
+12:32:42:136314 - 10.0.4.5:
+	0.0.0.0 with metric 16
+
+00:00:00:086592:
+12:32:42:136627 - 10.0.6.5:
+	0.0.0.0 with metric 16
+
+00:00:00:106770:
+12:32:42:156805 - 10.0.4.4:
+	10.0.1.0 with metric 3
+	10.0.12.0 with metric 2
+	10.0.15.0 with metric 3
+	10.0.2.0 with metric 2
+	10.0.3.0 with metric 1
+	10.0.5.0 with metric 1
+	10.0.7.0 with metric 1
+
+00:00:00:107291:
+12:32:42:157326 - 10.0.5.6:
+	0.0.0.0 with metric 16
+
+00:00:00:107602:
+12:32:42:157637 - 10.0.6.6:
+	0.0.0.0 with metric 16
+
+00:00:00:108008:
+12:32:42:158043 - 10.0.8.6:
+	0.0.0.0 with metric 16
+
+00:00:00:108744:
+12:32:42:158779 - 10.0.7.7:
+	0.0.0.0 with metric 16
+
+00:00:00:109098:
+12:32:42:159133 - 10.0.8.7:
+	0.0.0.0 with metric 16
+
+00:00:00:109524:
+12:32:42:159559 - 10.0.9.7:
+	0.0.0.0 with metric 16
+
+00:00:00:130003:
+12:32:42:180038 - 10.0.7.4:
+	10.0.1.0 with metric 3
+	10.0.12.0 with metric 2
+	10.0.15.0 with metric 3
+	10.0.2.0 with metric 2
+	10.0.3.0 with metric 1
+	10.0.4.0 with metric 1
+	10.0.5.0 with metric 1
+
+00:00:00:132054:
+12:32:42:182089 - 10.0.5.4:
+	10.0.1.0 with metric 3
+	10.0.12.0 with metric 2
+	10.0.15.0 with metric 3
+	10.0.2.0 with metric 2
+	10.0.3.0 with metric 1
+	10.0.4.0 with metric 1
+	10.0.7.0 with metric 1
+
+00:00:00:132098:
+12:32:42:182133 - 10.0.6.5:
+	10.0.1.0 with metric 4
+	10.0.12.0 with metric 3
+	10.0.15.0 with metric 4
+	10.0.2.0 with metric 3
+	10.0.3.0 with metric 2
+	10.0.4.0 with metric 1
+	10.0.5.0 with metric 2
+	10.0.7.0 with metric 2
+
+00:00:00:132266:
+12:32:42:182301 - 10.0.8.6:
+	10.0.5.0 with metric 1
+	10.0.6.0 with metric 1
+
+00:00:00:134954:
+12:32:42:184989 - 10.0.9.8:
+	0.0.0.0 with metric 16
+
+00:00:00:135277:
+12:32:42:185312 - 10.0.10.8:
+	0.0.0.0 with metric 16
+
+00:00:00:155433:
+12:32:42:205468 - 10.0.9.7:
+	10.0.1.0 with metric 4
+	10.0.12.0 with metric 3
+	10.0.15.0 with metric 4
+	10.0.2.0 with metric 3
+	10.0.3.0 with metric 2
+	10.0.4.0 with metric 2
+	10.0.5.0 with metric 2
+	10.0.6.0 with metric 2
+	10.0.7.0 with metric 1
+	10.0.8.0 with metric 1
+
+00:00:00:171059:
+12:32:42:221094 - 10.0.10.9:
+	0.0.0.0 with metric 16
+
+00:00:00:171284:
+12:32:42:221319 - 10.0.11.9:
+	0.0.0.0 with metric 16
+
+00:00:00:172305:
+12:32:42:222340 - 10.0.11.10:
+	0.0.0.0 with metric 16
+
+00:00:00:172616:
+12:32:42:222651 - 10.0.12.10:
+	0.0.0.0 with metric 16
+
+00:00:00:173081:
+12:32:42:223116 - 10.0.13.10:
+	0.0.0.0 with metric 16
+
+00:00:00:191899:
+12:32:42:241934 - 10.0.10.8:
+	10.0.1.0 with metric 5
+	10.0.12.0 with metric 4
+	10.0.15.0 with metric 5
+	10.0.2.0 with metric 4
+	10.0.3.0 with metric 3
+	10.0.4.0 with metric 3
+	10.0.5.0 with metric 3
+	10.0.6.0 with metric 3
+	10.0.7.0 with metric 2
+	10.0.8.0 with metric 2
+	10.0.9.0 with metric 1
+
+00:00:00:194415:
+12:32:42:244450 - 10.0.12.3:
+	10.0.1.0 with metric 2
+	10.0.15.0 with metric 2
+	10.0.2.0 with metric 1
+	10.0.3.0 with metric 1
+
+00:00:00:194452:
+12:32:42:244487 - 10.0.13.11:
+	0.0.0.0 with metric 16
+
+00:00:00:194992:
+12:32:42:245027 - 10.0.14.11:
+	0.0.0.0 with metric 16
+
+00:00:00:202723:
+12:32:42:252758 - 10.0.14.12:
+	0.0.0.0 with metric 16
+
+00:00:00:203046:
+12:32:42:253081 - 10.0.15.12:
+	0.0.0.0 with metric 16
+
+00:00:00:203478:
+12:32:42:253513 - 10.0.16.12:
+	0.0.0.0 with metric 16
+
+00:00:00:205020:
+12:32:42:255055 - 10.0.11.9:
+	10.0.10.0 with metric 1
+
+00:00:00:223446:
+12:32:42:273481 - 10.0.14.11:
+	10.0.13.0 with metric 1
+
+00:00:00:223484:
+12:32:42:273519 - 10.0.15.2:
+	10.0.1.0 with metric 1
+	10.0.16.0 with metric 2
+	10.0.2.0 with metric 1
+
+00:00:00:223859:
+12:32:42:273894 - 10.0.16.1:
+	10.0.1.0 with metric 1
+
+00:00:00:225728:
+12:32:42:275763 - 10.0.13.10:
+	10.0.1.0 with metric 3
+	10.0.11.0 with metric 1
+	10.0.12.0 with metric 1
+	10.0.15.0 with metric 3
+	10.0.2.0 with metric 2
+	10.0.3.0 with metric 2
+
+00:00:01:996096:
+12:32:44:046131 - 10.0.1.1:
+	10.0.16.0 with metric 1
+
+00:00:02:016805:
+12:32:44:066840 - 10.0.1.2:
+	10.0.15.0 with metric 1
+	10.0.2.0 with metric 1
+
+00:00:02:016970:
+12:32:44:067005 - 10.0.2.2:
+	10.0.15.0 with metric 1
+	10.0.16.0 with metric 2
+
+00:00:02:017126:
+12:32:44:067161 - 10.0.15.2:
+	10.0.16.0 with metric 2
+	10.0.2.0 with metric 1
+
+00:00:02:018684:
+12:32:44:068719 - 10.0.2.3:
+	10.0.12.0 with metric 1
+	10.0.3.0 with metric 1
+
+00:00:02:018842:
+12:32:44:068877 - 10.0.3.3:
+	10.0.1.0 with metric 2
+	10.0.12.0 with metric 1
+	10.0.15.0 with metric 2
+
+00:00:02:019019:
+12:32:44:069054 - 10.0.12.3:
+	10.0.1.0 with metric 2
+	10.0.15.0 with metric 2
+	10.0.3.0 with metric 1
+
+00:00:02:049365:
+12:32:44:099400 - 10.0.3.4:
+	10.0.4.0 with metric 1
+	10.0.5.0 with metric 1
+	10.0.7.0 with metric 1
+
+00:00:02:049548:
+12:32:44:099583 - 10.0.4.4:
+	10.0.1.0 with metric 3
+	10.0.12.0 with metric 2
+	10.0.15.0 with metric 3
+	10.0.2.0 with metric 2
+	10.0.5.0 with metric 1
+	10.0.7.0 with metric 1
+
+00:00:02:049726:
+12:32:44:099761 - 10.0.5.4:
+	10.0.1.0 with metric 3
+	10.0.12.0 with metric 2
+	10.0.15.0 with metric 3
+	10.0.2.0 with metric 2
+	10.0.4.0 with metric 1
+	10.0.7.0 with metric 1
+
+00:00:02:049915:
+12:32:44:099950 - 10.0.7.4:
+	10.0.1.0 with metric 3
+	10.0.12.0 with metric 2
+	10.0.15.0 with metric 3
+	10.0.2.0 with metric 2
+	10.0.4.0 with metric 1
+	10.0.5.0 with metric 1
+
+00:00:02:071154:
+12:32:44:121189 - 10.0.4.5:
+	10.0.6.0 with metric 1
+
+00:00:02:071332:
+12:32:44:121367 - 10.0.6.5:
+	10.0.1.0 with metric 4
+	10.0.12.0 with metric 3
+	10.0.15.0 with metric 4
+	10.0.2.0 with metric 3
+	10.0.3.0 with metric 2
+	10.0.5.0 with metric 2
+	10.0.7.0 with metric 2
+
+00:00:02:101770:
+12:32:44:151805 - 10.0.5.6:
+	10.0.6.0 with metric 1
+	10.0.8.0 with metric 1
+
+00:00:02:101951:
+12:32:44:151986 - 10.0.6.6:
+	10.0.1.0 with metric 4
+	10.0.12.0 with metric 3
+	10.0.15.0 with metric 4
+	10.0.2.0 with metric 3
+	10.0.3.0 with metric 2
+	10.0.4.0 with metric 2
+	10.0.7.0 with metric 2
+	10.0.8.0 with metric 1
+
+00:00:02:102126:
+12:32:44:152161 - 10.0.8.6:
+	10.0.1.0 with metric 4
+	10.0.12.0 with metric 3
+	10.0.15.0 with metric 4
+	10.0.2.0 with metric 3
+	10.0.3.0 with metric 2
+	10.0.4.0 with metric 2
+	10.0.6.0 with metric 1
+	10.0.7.0 with metric 2
+
+00:00:02:102394:
+12:32:44:152429 - 10.0.7.7:
+	10.0.6.0 with metric 2
+	10.0.8.0 with metric 1
+	10.0.9.0 with metric 1
+
+00:00:02:102606:
+12:32:44:152641 - 10.0.8.7:
+	10.0.1.0 with metric 4
+	10.0.12.0 with metric 3
+	10.0.15.0 with metric 4
+	10.0.2.0 with metric 3
+	10.0.3.0 with metric 2
+	10.0.4.0 with metric 2
+	10.0.5.0 with metric 2
+	10.0.9.0 with metric 1
+
+00:00:02:102797:
+12:32:44:152832 - 10.0.9.7:
+	10.0.1.0 with metric 4
+	10.0.12.0 with metric 3
+	10.0.15.0 with metric 4
+	10.0.2.0 with metric 3
+	10.0.3.0 with metric 2
+	10.0.4.0 with metric 2
+	10.0.5.0 with metric 2
+	10.0.6.0 with metric 2
+	10.0.8.0 with metric 1
+
+00:00:02:123544:
+12:32:44:173579 - 10.0.9.8:
+	10.0.10.0 with metric 1
+
+00:00:02:123721:
+12:32:44:173756 - 10.0.10.8:
+	10.0.1.0 with metric 5
+	10.0.12.0 with metric 4
+	10.0.15.0 with metric 5
+	10.0.2.0 with metric 4
+	10.0.3.0 with metric 3
+	10.0.4.0 with metric 3
+	10.0.5.0 with metric 3
+	10.0.6.0 with metric 3
+	10.0.7.0 with metric 2
+	10.0.8.0 with metric 2
+
+00:00:02:161207:
+12:32:44:211242 - 10.0.11.10:
+	10.0.1.0 with metric 3
+	10.0.12.0 with metric 1
+	10.0.13.0 with metric 1
+	10.0.15.0 with metric 3
+	10.0.2.0 with metric 2
+	10.0.3.0 with metric 2
+
+00:00:02:161383:
+12:32:44:211418 - 10.0.12.10:
+	10.0.10.0 with metric 2
+	10.0.13.0 with metric 1
+
+00:00:02:161450:
+12:32:44:211485 - 10.0.10.9:
+	10.0.11.0 with metric 1
+
+00:00:02:161573:
+12:32:44:211608 - 10.0.13.10:
+	10.0.1.0 with metric 3
+	10.0.10.0 with metric 2
+	10.0.12.0 with metric 1
+	10.0.15.0 with metric 3
+	10.0.2.0 with metric 2
+	10.0.3.0 with metric 2
+
+00:00:02:161658:
+12:32:44:211693 - 10.0.11.9:
+	10.0.1.0 with metric 6
+	10.0.12.0 with metric 5
+	10.0.15.0 with metric 6
+	10.0.2.0 with metric 5
+	10.0.3.0 with metric 4
+	10.0.4.0 with metric 4
+	10.0.5.0 with metric 4
+	10.0.6.0 with metric 4
+	10.0.7.0 with metric 3
+	10.0.8.0 with metric 3
+	10.0.9.0 with metric 2
+
+00:00:02:182562:
+12:32:44:232597 - 10.0.13.11:
+	10.0.14.0 with metric 1
+
+00:00:02:182740:
+12:32:44:232775 - 10.0.14.11:
+	10.0.1.0 with metric 4
+	10.0.10.0 with metric 3
+	10.0.11.0 with metric 2
+	10.0.12.0 with metric 2
+	10.0.15.0 with metric 4
+	10.0.2.0 with metric 3
+	10.0.3.0 with metric 3
+
+00:00:02:204237:
+12:32:44:254272 - 10.0.14.12:
+	10.0.1.0 with metric 2
+	10.0.15.0 with metric 1
+	10.0.16.0 with metric 1
+	10.0.2.0 with metric 2
+
+00:00:02:204514:
+12:32:44:254549 - 10.0.15.12:
+	10.0.10.0 with metric 4
+	10.0.11.0 with metric 3
+	10.0.12.0 with metric 3
+	10.0.13.0 with metric 2
+	10.0.16.0 with metric 1
+	10.0.3.0 with metric 4
+
+00:00:02:204923:
+12:32:44:254958 - 10.0.16.12:
+	10.0.1.0 with metric 2
+	10.0.10.0 with metric 4
+	10.0.11.0 with metric 3
+	10.0.12.0 with metric 3
+	10.0.13.0 with metric 2
+	10.0.15.0 with metric 1
+	10.0.2.0 with metric 2
+	10.0.3.0 with metric 4
+
+00:00:07:008718:
+12:32:49:058753 - 10.0.1.1:
+	10.0.10.0 with metric 5
+	10.0.11.0 with metric 4
+	10.0.12.0 with metric 4
+	10.0.13.0 with metric 3
+	10.0.3.0 with metric 5
+
+00:00:07:008890:
+12:32:49:058925 - 10.0.16.1:
+	10.0.15.0 with metric 2
+	10.0.2.0 with metric 2
+
+00:00:07:027917:
+12:32:49:077952 - 10.0.2.3:
+	10.0.10.0 with metric 3
+	10.0.13.0 with metric 2
+	10.0.4.0 with metric 2
+	10.0.5.0 with metric 2
+	10.0.7.0 with metric 2
+
+00:00:07:028151:
+12:32:49:078186 - 10.0.1.2:
+	10.0.10.0 with metric 5
+	10.0.11.0 with metric 4
+	10.0.12.0 with metric 2
+	10.0.13.0 with metric 3
+	10.0.3.0 with metric 2
+
+00:00:07:028310:
+12:32:49:078345 - 10.0.2.2:
+	10.0.10.0 with metric 5
+	10.0.11.0 with metric 4
+	10.0.13.0 with metric 3
+
+00:00:07:028471:
+12:32:49:078506 - 10.0.15.2:
+	10.0.12.0 with metric 2
+	10.0.3.0 with metric 2
+
+00:00:07:030399:
+12:32:49:080434 - 10.0.3.3:
+	10.0.10.0 with metric 3
+	10.0.13.0 with metric 2
+	10.0.16.0 with metric 3
+
+00:00:07:030637:
+12:32:49:080672 - 10.0.12.3:
+	10.0.16.0 with metric 3
+	10.0.4.0 with metric 2
+	10.0.5.0 with metric 2
+	10.0.7.0 with metric 2
+
+00:00:07:051909:
+12:32:49:101944 - 10.0.3.4:
+	10.0.6.0 with metric 2
+	10.0.8.0 with metric 2
+	10.0.9.0 with metric 2
+
+00:00:07:052096:
+12:32:49:102131 - 10.0.4.4:
+	10.0.10.0 with metric 4
+	10.0.13.0 with metric 3
+	10.0.16.0 with metric 4
+	10.0.8.0 with metric 2
+	10.0.9.0 with metric 2
+
+00:00:07:052270:
+12:32:49:102305 - 10.0.5.4:
+	10.0.10.0 with metric 4
+	10.0.13.0 with metric 3
+	10.0.16.0 with metric 4
+	10.0.6.0 with metric 2
+	10.0.9.0 with metric 2
+
+00:00:07:052451:
+12:32:49:102486 - 10.0.7.4:
+	10.0.10.0 with metric 4
+	10.0.13.0 with metric 3
+	10.0.16.0 with metric 4
+	10.0.6.0 with metric 2
+	10.0.8.0 with metric 2
+
+00:00:07:073355:
+12:32:49:123390 - 10.0.4.5:
+	10.0.8.0 with metric 2
+
+00:00:07:073535:
+12:32:49:123570 - 10.0.6.5:
+	10.0.10.0 with metric 5
+	10.0.13.0 with metric 4
+	10.0.16.0 with metric 5
+	10.0.9.0 with metric 3
+
+00:00:07:104031:
+12:32:49:154066 - 10.0.7.7:
+	10.0.10.0 with metric 2
+
+00:00:07:104225:
+12:32:49:154260 - 10.0.8.7:
+	10.0.10.0 with metric 2
+	10.0.13.0 with metric 4
+	10.0.16.0 with metric 5
+
+00:00:07:104439:
+12:32:49:154474 - 10.0.9.7:
+	10.0.13.0 with metric 4
+	10.0.16.0 with metric 5
+
+00:00:07:104500:
+12:32:49:154535 - 10.0.5.6:
+	10.0.9.0 with metric 2
+
+00:00:07:104721:
+12:32:49:154756 - 10.0.6.6:
+	10.0.10.0 with metric 5
+	10.0.13.0 with metric 4
+	10.0.16.0 with metric 5
+	10.0.9.0 with metric 2
+
+00:00:07:104947:
+12:32:49:154982 - 10.0.8.6:
+	10.0.10.0 with metric 5
+	10.0.13.0 with metric 4
+	10.0.16.0 with metric 5
+
+00:00:07:126515:
+12:32:49:176550 - 10.0.9.8:
+	10.0.11.0 with metric 2
+
+00:00:07:126693:
+12:32:49:176728 - 10.0.10.8:
+	10.0.13.0 with metric 5
+	10.0.16.0 with metric 6
+
+00:00:07:177852:
+12:32:49:227887 - 10.0.10.9:
+	10.0.1.0 with metric 4
+	10.0.12.0 with metric 2
+	10.0.13.0 with metric 2
+	10.0.15.0 with metric 4
+	10.0.2.0 with metric 3
+	10.0.3.0 with metric 3
+
+00:00:07:178139:
+12:32:49:228174 - 10.0.11.9:
+	10.0.16.0 with metric 7
+
+00:00:07:178985:
+12:32:49:229020 - 10.0.11.10:
+	10.0.14.0 with metric 2
+	10.0.16.0 with metric 4
+	10.0.4.0 with metric 3
+	10.0.5.0 with metric 3
+	10.0.7.0 with metric 3
+
+00:00:07:179158:
+12:32:49:229193 - 10.0.12.10:
+	10.0.14.0 with metric 2
+	10.0.6.0 with metric 5
+	10.0.8.0 with metric 4
+	10.0.9.0 with metric 3
+
+00:00:07:179354:
+12:32:49:229389 - 10.0.13.10:
+	10.0.16.0 with metric 4
+	10.0.4.0 with metric 3
+	10.0.5.0 with metric 3
+	10.0.6.0 with metric 5
+	10.0.7.0 with metric 3
+	10.0.8.0 with metric 4
+	10.0.9.0 with metric 3
+
+00:00:07:201662:
+12:32:49:251697 - 10.0.13.11:
+	10.0.1.0 with metric 3
+	10.0.15.0 with metric 2
+	10.0.16.0 with metric 2
+
+00:00:07:201843:
+12:32:49:251878 - 10.0.14.11:
+	10.0.4.0 with metric 4
+	10.0.5.0 with metric 4
+	10.0.6.0 with metric 6
+	10.0.7.0 with metric 4
+	10.0.8.0 with metric 5
+	10.0.9.0 with metric 4
+
+00:00:07:223321:
+12:32:49:273356 - 10.0.14.12:
+	10.0.3.0 with metric 3
+
+00:00:07:223502:
+12:32:49:273537 - 10.0.15.12:
+	10.0.4.0 with metric 5
+	10.0.5.0 with metric 5
+	10.0.6.0 with metric 7
+	10.0.7.0 with metric 5
+	10.0.8.0 with metric 6
+	10.0.9.0 with metric 5
+
+00:00:07:223671:
+12:32:49:273706 - 10.0.16.12:
+	10.0.3.0 with metric 3
+	10.0.4.0 with metric 5
+	10.0.5.0 with metric 5
+	10.0.6.0 with metric 7
+	10.0.7.0 with metric 5
+	10.0.8.0 with metric 6
+	10.0.9.0 with metric 5
+
+00:00:07:997670:
+12:32:50:047705 - 10.0.1.1:
+	10.0.10.0 with metric 5
+	10.0.11.0 with metric 4
+	10.0.13.0 with metric 3
+	10.0.16.0 with metric 1
+	10.0.4.0 with metric 6
+	10.0.5.0 with metric 6
+	10.0.6.0 with metric 8
+	10.0.7.0 with metric 6
+	10.0.8.0 with metric 7
+	10.0.9.0 with metric 6
+
+00:00:07:997839:
+12:32:50:047874 - 10.0.16.1:
+	10.0.1.0 with metric 1
+	10.0.12.0 with metric 3
+	10.0.15.0 with metric 2
+	10.0.2.0 with metric 2
+	10.0.3.0 with metric 3
+
+00:00:07:998389:
+12:32:50:048424 - 10.0.1.2:
+	10.0.10.0 with metric 4
+	10.0.11.0 with metric 4
+	10.0.12.0 with metric 2
+	10.0.13.0 with metric 3
+	10.0.15.0 with metric 1
+	10.0.2.0 with metric 1
+	10.0.3.0 with metric 2
+	10.0.4.0 with metric 3
+	10.0.5.0 with metric 3
+	10.0.6.0 with metric 8
+	10.0.7.0 with metric 3
+	10.0.8.0 with metric 7
+	10.0.9.0 with metric 6
+
+00:00:07:998568:
+12:32:50:048603 - 10.0.2.2:
+	10.0.1.0 with metric 1
+	10.0.11.0 with metric 4
+	10.0.13.0 with metric 3
+	10.0.15.0 with metric 1
+	10.0.16.0 with metric 2
+	10.0.6.0 with metric 8
+	10.0.8.0 with metric 7
+	10.0.9.0 with metric 6
+
+00:00:07:998750:
+12:32:50:048785 - 10.0.15.2:
+	10.0.1.0 with metric 1
+	10.0.10.0 with metric 4
+	10.0.12.0 with metric 2
+	10.0.16.0 with metric 2
+	10.0.2.0 with metric 1
+	10.0.3.0 with metric 2
+	10.0.4.0 with metric 3
+	10.0.5.0 with metric 3
+	10.0.7.0 with metric 3
+
+00:00:07:998983:
+12:32:50:049018 - 10.0.1.1:
+	10.0.6.0 with metric 8
+	10.0.8.0 with metric 7
+	10.0.9.0 with metric 6
+
+00:00:07:999170:
+12:32:50:049205 - 10.0.16.1:
+	10.0.12.0 with metric 3
+	10.0.3.0 with metric 3
+	10.0.4.0 with metric 4
+	10.0.5.0 with metric 4
+	10.0.7.0 with metric 4
+
+00:00:08:020872:
+12:32:50:070907 - 10.0.2.3:
+	10.0.10.0 with metric 3
+	10.0.12.0 with metric 1
+	10.0.13.0 with metric 2
+	10.0.14.0 with metric 3
+	10.0.3.0 with metric 1
+	10.0.4.0 with metric 2
+	10.0.5.0 with metric 2
+	10.0.6.0 with metric 3
+	10.0.7.0 with metric 2
+	10.0.8.0 with metric 3
+	10.0.9.0 with metric 3
+
+00:00:08:021041:
+12:32:50:071076 - 10.0.3.3:
+	10.0.1.0 with metric 2
+	10.0.10.0 with metric 3
+	10.0.11.0 with metric 5
+	10.0.12.0 with metric 1
+	10.0.13.0 with metric 2
+	10.0.14.0 with metric 3
+	10.0.15.0 with metric 2
+	10.0.16.0 with metric 3
+	10.0.2.0 with metric 1
+
+00:00:08:021217:
+12:32:50:071252 - 10.0.12.3:
+	10.0.1.0 with metric 2
+	10.0.11.0 with metric 5
+	10.0.15.0 with metric 2
+	10.0.16.0 with metric 3
+	10.0.2.0 with metric 1
+	10.0.3.0 with metric 1
+	10.0.4.0 with metric 2
+	10.0.5.0 with metric 2
+	10.0.6.0 with metric 3
+	10.0.7.0 with metric 2
+	10.0.8.0 with metric 3
+	10.0.9.0 with metric 3
+
+00:00:08:021643:
+12:32:50:071678 - 10.0.1.2:
+	10.0.10.0 with metric 4
+	10.0.14.0 with metric 4
+	10.0.4.0 with metric 3
+	10.0.5.0 with metric 3
+	10.0.6.0 with metric 4
+	10.0.7.0 with metric 3
+	10.0.8.0 with metric 4
+	10.0.9.0 with metric 4
+
+00:00:08:021807:
+12:32:50:071842 - 10.0.15.2:
+	10.0.10.0 with metric 4
+	10.0.14.0 with metric 4
+	10.0.4.0 with metric 3
+	10.0.5.0 with metric 3
+	10.0.6.0 with metric 4
+	10.0.7.0 with metric 3
+	10.0.8.0 with metric 4
+	10.0.9.0 with metric 4
+
+00:00:08:044425:
+12:32:50:094460 - 10.0.3.4:
+	10.0.10.0 with metric 3
+	10.0.4.0 with metric 1
+	10.0.5.0 with metric 1
+	10.0.6.0 with metric 2
+	10.0.7.0 with metric 1
+	10.0.8.0 with metric 2
+	10.0.9.0 with metric 2
+
+00:00:08:044595:
+12:32:50:094630 - 10.0.4.4:
+	10.0.1.0 with metric 3
+	10.0.10.0 with metric 3
+	10.0.11.0 with metric 6
+	10.0.12.0 with metric 2
+	10.0.13.0 with metric 3
+	10.0.14.0 with metric 4
+	10.0.15.0 with metric 3
+	10.0.16.0 with metric 4
+	10.0.2.0 with metric 2
+	10.0.3.0 with metric 1
+	10.0.5.0 with metric 1
+	10.0.7.0 with metric 1
+	10.0.8.0 with metric 2
+	10.0.9.0 with metric 2
+
+00:00:08:044772:
+12:32:50:094807 - 10.0.5.4:
+	10.0.1.0 with metric 3
+	10.0.10.0 with metric 3
+	10.0.11.0 with metric 6
+	10.0.12.0 with metric 2
+	10.0.13.0 with metric 3
+	10.0.14.0 with metric 4
+	10.0.15.0 with metric 3
+	10.0.16.0 with metric 4
+	10.0.2.0 with metric 2
+	10.0.3.0 with metric 1
+	10.0.4.0 with metric 1
+	10.0.6.0 with metric 2
+	10.0.7.0 with metric 1
+	10.0.9.0 with metric 2
+
+00:00:08:044955:
+12:32:50:094990 - 10.0.7.4:
+	10.0.1.0 with metric 3
+	10.0.11.0 with metric 6
+	10.0.12.0 with metric 2
+	10.0.13.0 with metric 3
+	10.0.14.0 with metric 4
+	10.0.15.0 with metric 3
+	10.0.16.0 with metric 4
+	10.0.2.0 with metric 2
+	10.0.3.0 with metric 1
+	10.0.4.0 with metric 1
+	10.0.5.0 with metric 1
+	10.0.6.0 with metric 2
+	10.0.8.0 with metric 2
+
+00:00:08:066238:
+12:32:50:116273 - 10.0.4.5:
+	10.0.6.0 with metric 1
+	10.0.8.0 with metric 2
+
+00:00:08:066411:
+12:32:50:116446 - 10.0.6.5:
+	10.0.1.0 with metric 4
+	10.0.10.0 with metric 4
+	10.0.11.0 with metric 7
+	10.0.12.0 with metric 3
+	10.0.13.0 with metric 4
+	10.0.14.0 with metric 5
+	10.0.15.0 with metric 4
+	10.0.16.0 with metric 5
+	10.0.2.0 with metric 3
+	10.0.3.0 with metric 2
+	10.0.4.0 with metric 1
+	10.0.5.0 with metric 2
+	10.0.7.0 with metric 2
+	10.0.9.0 with metric 3
+
+00:00:08:086042:
+12:32:50:136077 - 10.0.7.7:
+	10.0.10.0 with metric 2
+	10.0.11.0 with metric 3
+	10.0.6.0 with metric 2
+	10.0.8.0 with metric 1
+	10.0.9.0 with metric 1
+
+00:00:08:086220:
+12:32:50:136255 - 10.0.8.7:
+	10.0.1.0 with metric 4
+	10.0.10.0 with metric 2
+	10.0.11.0 with metric 3
+	10.0.12.0 with metric 3
+	10.0.13.0 with metric 4
+	10.0.14.0 with metric 5
+	10.0.15.0 with metric 4
+	10.0.16.0 with metric 5
+	10.0.2.0 with metric 3
+	10.0.3.0 with metric 2
+	10.0.4.0 with metric 2
+	10.0.5.0 with metric 2
+	10.0.7.0 with metric 1
+	10.0.9.0 with metric 1
+
+00:00:08:086408:
+12:32:50:136443 - 10.0.9.7:
+	10.0.1.0 with metric 4
+	10.0.12.0 with metric 3
+	10.0.13.0 with metric 4
+	10.0.14.0 with metric 5
+	10.0.15.0 with metric 4
+	10.0.16.0 with metric 5
+	10.0.2.0 with metric 3
+	10.0.3.0 with metric 2
+	10.0.4.0 with metric 2
+	10.0.5.0 with metric 2
+	10.0.6.0 with metric 2
+	10.0.7.0 with metric 1
+	10.0.8.0 with metric 1
+
+00:00:08:086469:
+12:32:50:136504 - 10.0.5.6:
+	10.0.10.0 with metric 3
+	10.0.6.0 with metric 1
+	10.0.8.0 with metric 1
+	10.0.9.0 with metric 2
+
+00:00:08:086652:
+12:32:50:136687 - 10.0.6.6:
+	10.0.1.0 with metric 4
+	10.0.10.0 with metric 3
+	10.0.11.0 with metric 7
+	10.0.12.0 with metric 3
+	10.0.13.0 with metric 4
+	10.0.14.0 with metric 5
+	10.0.15.0 with metric 4
+	10.0.16.0 with metric 5
+	10.0.2.0 with metric 3
+	10.0.3.0 with metric 2
+	10.0.4.0 with metric 2
+	10.0.5.0 with metric 1
+	10.0.7.0 with metric 2
+	10.0.8.0 with metric 1
+	10.0.9.0 with metric 2
+
+00:00:08:086689:
+12:32:50:136724 - 10.0.3.4:
+	10.0.10.0 with metric 3
+	10.0.11.0 with metric 4
+
+00:00:08:086844:
+12:32:50:136879 - 10.0.8.6:
+	10.0.1.0 with metric 4
+	10.0.11.0 with metric 7
+	10.0.12.0 with metric 3
+	10.0.13.0 with metric 4
+	10.0.14.0 with metric 5
+	10.0.15.0 with metric 4
+	10.0.16.0 with metric 5
+	10.0.2.0 with metric 3
+	10.0.3.0 with metric 2
+	10.0.4.0 with metric 2
+	10.0.5.0 with metric 1
+	10.0.6.0 with metric 1
+	10.0.7.0 with metric 2
+
+00:00:08:086894:
+12:32:50:136929 - 10.0.4.4:
+	10.0.10.0 with metric 3
+	10.0.11.0 with metric 4
+	10.0.14.0 with metric 4
+
+00:00:08:087105:
+12:32:50:137140 - 10.0.5.4:
+	10.0.10.0 with metric 3
+	10.0.11.0 with metric 4
+	10.0.14.0 with metric 4
+
+00:00:08:087292:
+12:32:50:137327 - 10.0.7.4:
+	10.0.14.0 with metric 4
+
+00:00:08:087390:
+12:32:50:137425 - 10.0.5.6:
+	10.0.10.0 with metric 3
+	10.0.11.0 with metric 4
+
+00:00:08:087548:
+12:32:50:137583 - 10.0.6.5:
+	10.0.10.0 with metric 4
+	10.0.11.0 with metric 5
+	10.0.14.0 with metric 5
+
+00:00:08:087593:
+12:32:50:137628 - 10.0.6.6:
+	10.0.10.0 with metric 3
+	10.0.11.0 with metric 4
+	10.0.14.0 with metric 5
+
+00:00:08:087772:
+12:32:50:137807 - 10.0.8.6:
+	10.0.14.0 with metric 5
+
+00:00:08:109533:
+12:32:50:159568 - 10.0.9.8:
+	10.0.10.0 with metric 1
+	10.0.11.0 with metric 2
+	10.0.12.0 with metric 3
+	10.0.13.0 with metric 3
+
+00:00:08:109725:
+12:32:50:159760 - 10.0.10.8:
+	10.0.1.0 with metric 5
+	10.0.14.0 with metric 6
+	10.0.15.0 with metric 5
+	10.0.16.0 with metric 6
+	10.0.2.0 with metric 4
+	10.0.3.0 with metric 3
+	10.0.4.0 with metric 3
+	10.0.5.0 with metric 3
+	10.0.6.0 with metric 3
+	10.0.7.0 with metric 2
+	10.0.8.0 with metric 2
+	10.0.9.0 with metric 1
+
+00:00:08:145679:
+12:32:50:195714 - 10.0.11.10:
+	10.0.1.0 with metric 3
+	10.0.12.0 with metric 1
+	10.0.13.0 with metric 1
+	10.0.14.0 with metric 2
+	10.0.15.0 with metric 3
+	10.0.16.0 with metric 3
+	10.0.2.0 with metric 2
+	10.0.3.0 with metric 2
+	10.0.4.0 with metric 3
+	10.0.5.0 with metric 3
+	10.0.6.0 with metric 4
+	10.0.7.0 with metric 3
+
+00:00:08:145853:
+12:32:50:195888 - 10.0.12.10:
+	10.0.10.0 with metric 2
+	10.0.11.0 with metric 1
+	10.0.13.0 with metric 1
+	10.0.14.0 with metric 2
+	10.0.16.0 with metric 3
+	10.0.8.0 with metric 4
+	10.0.9.0 with metric 3
+
+00:00:08:146034:
+12:32:50:196069 - 10.0.13.10:
+	10.0.1.0 with metric 3
+	10.0.10.0 with metric 2
+	10.0.11.0 with metric 1
+	10.0.12.0 with metric 1
+	10.0.15.0 with metric 3
+	10.0.2.0 with metric 2
+	10.0.3.0 with metric 2
+	10.0.4.0 with metric 3
+	10.0.5.0 with metric 3
+	10.0.6.0 with metric 4
+	10.0.7.0 with metric 3
+	10.0.8.0 with metric 4
+	10.0.9.0 with metric 3
+
+00:00:08:146038:
+12:32:50:196073 - 10.0.10.9:
+	10.0.1.0 with metric 4
+	10.0.11.0 with metric 1
+	10.0.12.0 with metric 2
+	10.0.13.0 with metric 2
+	10.0.14.0 with metric 3
+	10.0.15.0 with metric 4
+	10.0.16.0 with metric 5
+	10.0.2.0 with metric 3
+	10.0.3.0 with metric 3
+
+00:00:08:146260:
+12:32:50:196295 - 10.0.11.9:
+	10.0.10.0 with metric 1
+	10.0.4.0 with metric 4
+	10.0.5.0 with metric 4
+	10.0.6.0 with metric 4
+	10.0.7.0 with metric 3
+	10.0.8.0 with metric 3
+	10.0.9.0 with metric 2
+
+00:00:08:146368:
+12:32:50:196403 - 10.0.2.3:
+	10.0.11.0 with metric 2
+	10.0.14.0 with metric 3
+	10.0.6.0 with metric 3
+	10.0.8.0 with metric 3
+	10.0.9.0 with metric 3
+
+00:00:08:146585:
+12:32:50:196620 - 10.0.9.8:
+	10.0.12.0 with metric 3
+	10.0.13.0 with metric 3
+	10.0.14.0 with metric 4
+
+00:00:08:146591:
+12:32:50:196626 - 10.0.3.3:
+	10.0.11.0 with metric 2
+	10.0.14.0 with metric 3
+
+00:00:08:146805:
+12:32:50:196840 - 10.0.12.3:
+	10.0.6.0 with metric 3
+	10.0.8.0 with metric 3
+	10.0.9.0 with metric 3
+
+00:00:08:146955:
+12:32:50:196990 - 10.0.10.9:
+	10.0.14.0 with metric 3
+	10.0.16.0 with metric 4
+
+00:00:08:189270:
+12:32:50:239305 - 10.0.13.11:
+	10.0.1.0 with metric 3
+	10.0.14.0 with metric 1
+	10.0.15.0 with metric 2
+	10.0.16.0 with metric 2
+
+00:00:08:189450:
+12:32:50:239485 - 10.0.14.11:
+	10.0.10.0 with metric 3
+	10.0.11.0 with metric 2
+	10.0.12.0 with metric 2
+	10.0.13.0 with metric 1
+	10.0.2.0 with metric 3
+	10.0.3.0 with metric 3
+	10.0.4.0 with metric 4
+	10.0.5.0 with metric 4
+	10.0.6.0 with metric 5
+	10.0.7.0 with metric 4
+	10.0.8.0 with metric 5
+	10.0.9.0 with metric 4
+
+00:00:08:189842:
+12:32:50:239877 - 10.0.14.12:
+	10.0.1.0 with metric 2
+	10.0.15.0 with metric 1
+	10.0.16.0 with metric 1
+	10.0.2.0 with metric 2
+	10.0.3.0 with metric 3
+	10.0.4.0 with metric 4
+	10.0.5.0 with metric 4
+	10.0.6.0 with metric 5
+	10.0.7.0 with metric 4
+	10.0.8.0 with metric 5
+
+00:00:08:190031:
+12:32:50:240066 - 10.0.15.12:
+	10.0.10.0 with metric 4
+	10.0.11.0 with metric 3
+	10.0.12.0 with metric 3
+	10.0.13.0 with metric 2
+	10.0.14.0 with metric 1
+	10.0.16.0 with metric 1
+	10.0.9.0 with metric 5
+
+00:00:08:190200:
+12:32:50:240235 - 10.0.16.12:
+	10.0.1.0 with metric 2
+	10.0.10.0 with metric 4
+	10.0.11.0 with metric 3
+	10.0.12.0 with metric 3
+	10.0.13.0 with metric 2
+	10.0.14.0 with metric 1
+	10.0.15.0 with metric 1
+	10.0.2.0 with metric 2
+	10.0.3.0 with metric 3
+	10.0.4.0 with metric 4
+	10.0.5.0 with metric 4
+	10.0.6.0 with metric 5
+	10.0.7.0 with metric 4
+	10.0.8.0 with metric 5
+	10.0.9.0 with metric 5
+
+00:00:12:016892:
+12:32:54:066927 - 10.0.1.1:
+	10.0.14.0 with metric 2
+
+00:00:12:017071:
+12:32:54:067106 - 10.0.16.1:
+	10.0.6.0 with metric 5
+	10.0.8.0 with metric 5
+	10.0.9.0 with metric 5
+
+00:00:12:037398:
+12:32:54:087433 - 10.0.1.2:
+	10.0.11.0 with metric 3
+	10.0.14.0 with metric 2
+
+00:00:12:037696:
+12:32:54:087731 - 10.0.2.2:
+	10.0.14.0 with metric 2
+
+00:00:12:037906:
+12:32:54:087941 - 10.0.15.2:
+	10.0.11.0 with metric 3
+
+00:00:12:095472:
+12:32:54:145507 - 10.0.4.4:
+	10.0.11.0 with metric 3
+
+00:00:12:095650:
+12:32:54:145685 - 10.0.5.4:
+	10.0.11.0 with metric 3
+
+00:00:12:095912:
+12:32:54:145947 - 10.0.6.5:
+	10.0.11.0 with metric 4
+
+00:00:12:095960:
+12:32:54:145995 - 10.0.7.4:
+	10.0.11.0 with metric 3
+
+00:00:12:154322:
+12:32:54:204357 - 10.0.9.8:
+	10.0.16.0 with metric 5
+
+00:00:18:015591:
+12:33:00:065626 - 10.0.1.1:
+	10.0.10.0 with metric 5
+	10.0.11.0 with metric 4
+	10.0.13.0 with metric 3
+	10.0.14.0 with metric 2
+	10.0.16.0 with metric 1
+
+00:00:18:015781:
+12:33:00:065816 - 10.0.1.2:
+	10.0.10.0 with metric 4
+	10.0.11.0 with metric 3
+	10.0.12.0 with metric 2
+	10.0.13.0 with metric 3
+	10.0.14.0 with metric 2
+	10.0.15.0 with metric 1
+	10.0.2.0 with metric 1
+	10.0.3.0 with metric 2
+	10.0.4.0 with metric 3
+	10.0.5.0 with metric 3
+	10.0.6.0 with metric 4
+	10.0.7.0 with metric 3
+	10.0.8.0 with metric 4
+	10.0.9.0 with metric 4
+
+00:00:18:015898:
+12:33:00:065933 - 10.0.16.1:
+	10.0.1.0 with metric 1
+	10.0.12.0 with metric 3
+	10.0.15.0 with metric 2
+	10.0.2.0 with metric 2
+	10.0.3.0 with metric 3
+	10.0.4.0 with metric 4
+	10.0.5.0 with metric 4
+	10.0.6.0 with metric 5
+	10.0.7.0 with metric 4
+	10.0.8.0 with metric 5
+	10.0.9.0 with metric 5
+
+00:00:18:016173:
+12:33:00:066208 - 10.0.2.2:
+	10.0.1.0 with metric 1
+	10.0.13.0 with metric 3
+	10.0.14.0 with metric 2
+	10.0.15.0 with metric 1
+	10.0.16.0 with metric 2
+
+00:00:18:016444:
+12:33:00:066479 - 10.0.15.2:
+	10.0.1.0 with metric 1
+	10.0.10.0 with metric 4
+	10.0.11.0 with metric 3
+	10.0.12.0 with metric 2
+	10.0.16.0 with metric 2
+	10.0.2.0 with metric 1
+	10.0.3.0 with metric 2
+	10.0.4.0 with metric 3
+	10.0.5.0 with metric 3
+	10.0.6.0 with metric 4
+	10.0.7.0 with metric 3
+	10.0.8.0 with metric 4
+	10.0.9.0 with metric 4
+
+00:00:18:036623:
+12:33:00:086658 - 10.0.2.3:
+	10.0.10.0 with metric 3
+	10.0.11.0 with metric 2
+	10.0.12.0 with metric 1
+	10.0.13.0 with metric 2
+	10.0.14.0 with metric 3
+	10.0.3.0 with metric 1
+	10.0.4.0 with metric 2
+	10.0.5.0 with metric 2
+	10.0.6.0 with metric 3
+	10.0.7.0 with metric 2
+	10.0.8.0 with metric 3
+	10.0.9.0 with metric 3
+
+00:00:18:036782:
+12:33:00:086817 - 10.0.3.3:
+	10.0.1.0 with metric 2
+	10.0.10.0 with metric 3
+	10.0.11.0 with metric 2
+	10.0.12.0 with metric 1
+	10.0.13.0 with metric 2
+	10.0.14.0 with metric 3
+	10.0.15.0 with metric 2
+	10.0.16.0 with metric 3
+	10.0.2.0 with metric 1
+
+00:00:18:036946:
+12:33:00:086981 - 10.0.12.3:
+	10.0.1.0 with metric 2
+	10.0.15.0 with metric 2
+	10.0.16.0 with metric 3
+	10.0.2.0 with metric 1
+	10.0.3.0 with metric 1
+	10.0.4.0 with metric 2
+	10.0.5.0 with metric 2
+	10.0.6.0 with metric 3
+	10.0.7.0 with metric 2
+	10.0.8.0 with metric 3
+	10.0.9.0 with metric 3
+
+00:00:18:057491:
+12:33:00:107526 - 10.0.3.4:
+	10.0.10.0 with metric 3
+	10.0.4.0 with metric 1
+	10.0.5.0 with metric 1
+	10.0.6.0 with metric 2
+	10.0.7.0 with metric 1
+	10.0.8.0 with metric 2
+	10.0.9.0 with metric 2
+
+00:00:18:057777:
+12:33:00:107812 - 10.0.4.4:
+	10.0.1.0 with metric 3
+	10.0.10.0 with metric 3
+	10.0.11.0 with metric 3
+	10.0.12.0 with metric 2
+	10.0.13.0 with metric 3
+	10.0.14.0 with metric 4
+	10.0.15.0 with metric 3
+	10.0.16.0 with metric 4
+	10.0.2.0 with metric 2
+	10.0.3.0 with metric 1
+	10.0.5.0 with metric 1
+	10.0.7.0 with metric 1
+	10.0.8.0 with metric 2
+	10.0.9.0 with metric 2
+
+00:00:18:058138:
+12:33:00:108173 - 10.0.5.4:
+	10.0.1.0 with metric 3
+	10.0.10.0 with metric 3
+	10.0.11.0 with metric 3
+	10.0.12.0 with metric 2
+	10.0.13.0 with metric 3
+	10.0.14.0 with metric 4
+	10.0.15.0 with metric 3
+	10.0.16.0 with metric 4
+	10.0.2.0 with metric 2
+	10.0.3.0 with metric 1
+	10.0.4.0 with metric 1
+	10.0.6.0 with metric 2
+	10.0.7.0 with metric 1
+	10.0.9.0 with metric 2
+
+00:00:18:058483:
+12:33:00:108518 - 10.0.7.4:
+	10.0.1.0 with metric 3
+	10.0.11.0 with metric 3
+	10.0.12.0 with metric 2
+	10.0.13.0 with metric 3
+	10.0.14.0 with metric 4
+	10.0.15.0 with metric 3
+	10.0.16.0 with metric 4
+	10.0.2.0 with metric 2
+	10.0.3.0 with metric 1
+	10.0.4.0 with metric 1
+	10.0.5.0 with metric 1
+	10.0.6.0 with metric 2
+	10.0.8.0 with metric 2
+
+00:00:18:078370:
+12:33:00:128405 - 10.0.4.5:
+	10.0.6.0 with metric 1
+	10.0.8.0 with metric 2
+
+00:00:18:078615:
+12:33:00:128650 - 10.0.6.5:
+	10.0.1.0 with metric 4
+	10.0.10.0 with metric 4
+	10.0.11.0 with metric 4
+	10.0.12.0 with metric 3
+	10.0.13.0 with metric 4
+	10.0.14.0 with metric 5
+	10.0.15.0 with metric 4
+	10.0.16.0 with metric 5
+	10.0.2.0 with metric 3
+	10.0.3.0 with metric 2
+	10.0.4.0 with metric 1
+	10.0.5.0 with metric 2
+	10.0.7.0 with metric 2
+	10.0.9.0 with metric 3
+
+00:00:18:098997:
+12:33:00:149032 - 10.0.5.6:
+	10.0.10.0 with metric 3
+	10.0.11.0 with metric 4
+	10.0.6.0 with metric 1
+	10.0.8.0 with metric 1
+	10.0.9.0 with metric 2
+
+00:00:18:099163:
+12:33:00:149198 - 10.0.6.6:
+	10.0.1.0 with metric 4
+	10.0.10.0 with metric 3
+	10.0.11.0 with metric 4
+	10.0.12.0 with metric 3
+	10.0.13.0 with metric 4
+	10.0.14.0 with metric 5
+	10.0.15.0 with metric 4
+	10.0.16.0 with metric 5
+	10.0.2.0 with metric 3
+	10.0.3.0 with metric 2
+	10.0.4.0 with metric 2
+	10.0.5.0 with metric 1
+	10.0.7.0 with metric 2
+	10.0.8.0 with metric 1
+	10.0.9.0 with metric 2
+
+00:00:18:099306:
+12:33:00:149341 - 10.0.7.7:
+	10.0.10.0 with metric 2
+	10.0.11.0 with metric 3
+	10.0.6.0 with metric 2
+	10.0.8.0 with metric 1
+	10.0.9.0 with metric 1
+
+00:00:18:099344:
+12:33:00:149379 - 10.0.8.6:
+	10.0.1.0 with metric 4
+	10.0.12.0 with metric 3
+	10.0.13.0 with metric 4
+	10.0.14.0 with metric 5
+	10.0.15.0 with metric 4
+	10.0.16.0 with metric 5
+	10.0.2.0 with metric 3
+	10.0.3.0 with metric 2
+	10.0.4.0 with metric 2
+	10.0.5.0 with metric 1
+	10.0.6.0 with metric 1
+	10.0.7.0 with metric 2
+
+00:00:18:099762:
+12:33:00:149797 - 10.0.8.7:
+	10.0.1.0 with metric 4
+	10.0.10.0 with metric 2
+	10.0.11.0 with metric 3
+	10.0.12.0 with metric 3
+	10.0.13.0 with metric 4
+	10.0.14.0 with metric 5
+	10.0.15.0 with metric 4
+	10.0.16.0 with metric 5
+	10.0.2.0 with metric 3
+	10.0.3.0 with metric 2
+	10.0.4.0 with metric 2
+	10.0.5.0 with metric 2
+	10.0.7.0 with metric 1
+	10.0.9.0 with metric 1
+
+00:00:18:100157:
+12:33:00:150192 - 10.0.9.7:
+	10.0.1.0 with metric 4
+	10.0.12.0 with metric 3
+	10.0.13.0 with metric 4
+	10.0.14.0 with metric 5
+	10.0.15.0 with metric 4
+	10.0.16.0 with metric 5
+	10.0.2.0 with metric 3
+	10.0.3.0 with metric 2
+	10.0.4.0 with metric 2
+	10.0.5.0 with metric 2
+	10.0.6.0 with metric 2
+	10.0.7.0 with metric 1
+	10.0.8.0 with metric 1
+
+00:00:18:120703:
+12:33:00:170738 - 10.0.9.8:
+	10.0.10.0 with metric 1
+	10.0.11.0 with metric 2
+	10.0.12.0 with metric 3
+	10.0.13.0 with metric 3
+	10.0.14.0 with metric 4
+	10.0.16.0 with metric 5
+
+00:00:18:120883:
+12:33:00:170918 - 10.0.10.8:
+	10.0.1.0 with metric 5
+	10.0.15.0 with metric 5
+	10.0.2.0 with metric 4
+	10.0.3.0 with metric 3
+	10.0.4.0 with metric 3
+	10.0.5.0 with metric 3
+	10.0.6.0 with metric 3
+	10.0.7.0 with metric 2
+	10.0.8.0 with metric 2
+	10.0.9.0 with metric 1
+
+00:00:18:151535:
+12:33:00:201570 - 10.0.10.9:
+	10.0.1.0 with metric 4
+	10.0.11.0 with metric 1
+	10.0.12.0 with metric 2
+	10.0.13.0 with metric 2
+	10.0.14.0 with metric 3
+	10.0.15.0 with metric 4
+	10.0.16.0 with metric 4
+	10.0.2.0 with metric 3
+	10.0.3.0 with metric 3
+
+00:00:18:151845:
+12:33:00:201880 - 10.0.11.9:
+	10.0.10.0 with metric 1
+	10.0.4.0 with metric 4
+	10.0.5.0 with metric 4
+	10.0.6.0 with metric 4
+	10.0.7.0 with metric 3
+	10.0.8.0 with metric 3
+	10.0.9.0 with metric 2
+
+00:00:18:152083:
+12:33:00:202118 - 10.0.11.10:
+	10.0.1.0 with metric 3
+	10.0.12.0 with metric 1
+	10.0.13.0 with metric 1
+	10.0.14.0 with metric 2
+	10.0.15.0 with metric 3
+	10.0.16.0 with metric 3
+	10.0.2.0 with metric 2
+	10.0.3.0 with metric 2
+	10.0.4.0 with metric 3
+	10.0.5.0 with metric 3
+	10.0.6.0 with metric 4
+	10.0.7.0 with metric 3
+
+00:00:18:152239:
+12:33:00:202274 - 10.0.12.10:
+	10.0.10.0 with metric 2
+	10.0.11.0 with metric 1
+	10.0.13.0 with metric 1
+	10.0.14.0 with metric 2
+	10.0.16.0 with metric 3
+	10.0.8.0 with metric 4
+	10.0.9.0 with metric 3
+
+00:00:18:152410:
+12:33:00:202445 - 10.0.13.10:
+	10.0.1.0 with metric 3
+	10.0.10.0 with metric 2
+	10.0.11.0 with metric 1
+	10.0.12.0 with metric 1
+	10.0.15.0 with metric 3
+	10.0.2.0 with metric 2
+	10.0.3.0 with metric 2
+	10.0.4.0 with metric 3
+	10.0.5.0 with metric 3
+	10.0.6.0 with metric 4
+	10.0.7.0 with metric 3
+	10.0.8.0 with metric 4
+	10.0.9.0 with metric 3
+
+00:00:18:203219:
+12:33:00:253254 - 10.0.13.11:
+	10.0.1.0 with metric 3
+	10.0.14.0 with metric 1
+	10.0.15.0 with metric 2
+	10.0.16.0 with metric 2
+
+00:00:18:203473:
+12:33:00:253508 - 10.0.14.11:
+	10.0.10.0 with metric 3
+	10.0.11.0 with metric 2
+	10.0.12.0 with metric 2
+	10.0.13.0 with metric 1
+	10.0.2.0 with metric 3
+	10.0.3.0 with metric 3
+	10.0.4.0 with metric 4
+	10.0.5.0 with metric 4
+	10.0.6.0 with metric 5
+	10.0.7.0 with metric 4
+	10.0.8.0 with metric 5
+	10.0.9.0 with metric 4
+
+00:00:18:203691:
+12:33:00:253726 - 10.0.14.12:
+	10.0.1.0 with metric 2
+	10.0.15.0 with metric 1
+	10.0.16.0 with metric 1
+	10.0.2.0 with metric 2
+	10.0.3.0 with metric 3
+	10.0.4.0 with metric 4
+	10.0.5.0 with metric 4
+	10.0.6.0 with metric 5
+	10.0.7.0 with metric 4
+	10.0.8.0 with metric 5
+
+00:00:18:203849:
+12:33:00:253884 - 10.0.15.12:
+	10.0.10.0 with metric 4
+	10.0.11.0 with metric 3
+	10.0.12.0 with metric 3
+	10.0.13.0 with metric 2
+	10.0.14.0 with metric 1
+	10.0.16.0 with metric 1
+	10.0.9.0 with metric 5
+
+00:00:18:204028:
+12:33:00:254063 - 10.0.16.12:
+	10.0.1.0 with metric 2
+	10.0.10.0 with metric 4
+	10.0.11.0 with metric 3
+	10.0.12.0 with metric 3
+	10.0.13.0 with metric 2
+	10.0.14.0 with metric 1
+	10.0.15.0 with metric 1
+	10.0.2.0 with metric 2
+	10.0.3.0 with metric 3
+	10.0.4.0 with metric 4
+	10.0.5.0 with metric 4
+	10.0.6.0 with metric 5
+	10.0.7.0 with metric 4
+	10.0.8.0 with metric 5
+	10.0.9.0 with metric 5
+
+00:00:27:024682:
+12:33:09:074717 - 10.0.1.2:
+	10.0.10.0 with metric 4
+	10.0.11.0 with metric 3
+	10.0.12.0 with metric 2
+	10.0.13.0 with metric 3
+	10.0.14.0 with metric 2
+	10.0.15.0 with metric 1
+	10.0.2.0 with metric 1
+	10.0.3.0 with metric 2
+	10.0.4.0 with metric 3
+	10.0.5.0 with metric 3
+	10.0.6.0 with metric 4
+	10.0.7.0 with metric 3
+	10.0.8.0 with metric 4
+	10.0.9.0 with metric 4
+
+00:00:27:024929:
+12:33:09:074964 - 10.0.1.1:
+	10.0.10.0 with metric 5
+	10.0.11.0 with metric 4
+	10.0.13.0 with metric 3
+	10.0.14.0 with metric 2
+	10.0.16.0 with metric 1
+
+00:00:27:025093:
+12:33:09:075128 - 10.0.2.2:
+	10.0.1.0 with metric 1
+	10.0.13.0 with metric 3
+	10.0.14.0 with metric 2
+	10.0.15.0 with metric 1
+	10.0.16.0 with metric 2
+
+00:00:27:025224:
+12:33:09:075259 - 10.0.16.1:
+	10.0.1.0 with metric 1
+	10.0.12.0 with metric 3
+	10.0.15.0 with metric 2
+	10.0.2.0 with metric 2
+	10.0.3.0 with metric 3
+	10.0.4.0 with metric 4
+	10.0.5.0 with metric 4
+	10.0.6.0 with metric 5
+	10.0.7.0 with metric 4
+	10.0.8.0 with metric 5
+	10.0.9.0 with metric 5
+
+00:00:27:025265:
+12:33:09:075300 - 10.0.15.2:
+	10.0.1.0 with metric 1
+	10.0.10.0 with metric 4
+	10.0.11.0 with metric 3
+	10.0.12.0 with metric 2
+	10.0.16.0 with metric 2
+	10.0.2.0 with metric 1
+	10.0.3.0 with metric 2
+	10.0.4.0 with metric 3
+	10.0.5.0 with metric 3
+	10.0.6.0 with metric 4
+	10.0.7.0 with metric 3
+	10.0.8.0 with metric 4
+	10.0.9.0 with metric 4
+
+00:00:27:072238:
+12:33:09:122273 - 10.0.3.4:
+	10.0.10.0 with metric 3
+	10.0.4.0 with metric 1
+	10.0.5.0 with metric 1
+	10.0.6.0 with metric 2
+	10.0.7.0 with metric 1
+	10.0.8.0 with metric 2
+	10.0.9.0 with metric 2
+
+00:00:27:072535:
+12:33:09:122570 - 10.0.4.4:
+	10.0.1.0 with metric 3
+	10.0.10.0 with metric 3
+	10.0.11.0 with metric 3
+	10.0.12.0 with metric 2
+	10.0.13.0 with metric 3
+	10.0.14.0 with metric 4
+	10.0.15.0 with metric 3
+	10.0.16.0 with metric 4
+	10.0.2.0 with metric 2
+	10.0.3.0 with metric 1
+	10.0.5.0 with metric 1
+	10.0.7.0 with metric 1
+	10.0.8.0 with metric 2
+	10.0.9.0 with metric 2
+
+00:00:27:072691:
+12:33:09:122726 - 10.0.5.4:
+	10.0.1.0 with metric 3
+	10.0.10.0 with metric 3
+	10.0.11.0 with metric 3
+	10.0.12.0 with metric 2
+	10.0.13.0 with metric 3
+	10.0.14.0 with metric 4
+	10.0.15.0 with metric 3
+	10.0.16.0 with metric 4
+	10.0.2.0 with metric 2
+	10.0.3.0 with metric 1
+	10.0.4.0 with metric 1
+	10.0.6.0 with metric 2
+	10.0.7.0 with metric 1
+	10.0.9.0 with metric 2
+
+00:00:27:073070:
+12:33:09:123105 - 10.0.7.4:
+	10.0.1.0 with metric 3
+	10.0.11.0 with metric 3
+	10.0.12.0 with metric 2
+	10.0.13.0 with metric 3
+	10.0.14.0 with metric 4
+	10.0.15.0 with metric 3
+	10.0.16.0 with metric 4
+	10.0.2.0 with metric 2
+	10.0.3.0 with metric 1
+	10.0.4.0 with metric 1
+	10.0.5.0 with metric 1
+	10.0.6.0 with metric 2
+	10.0.8.0 with metric 2
+
+00:00:27:093359:
+12:33:09:143394 - 10.0.4.5:
+	10.0.6.0 with metric 1
+	10.0.8.0 with metric 2
+
+00:00:27:093587:
+12:33:09:143622 - 10.0.6.5:
+	10.0.1.0 with metric 4
+	10.0.10.0 with metric 4
+	10.0.11.0 with metric 4
+	10.0.12.0 with metric 3
+	10.0.13.0 with metric 4
+	10.0.14.0 with metric 5
+	10.0.15.0 with metric 4
+	10.0.16.0 with metric 5
+	10.0.2.0 with metric 3
+	10.0.3.0 with metric 2
+	10.0.4.0 with metric 1
+	10.0.5.0 with metric 2
+	10.0.7.0 with metric 2
+	10.0.9.0 with metric 3
+
+00:00:27:134744:
+12:33:09:184779 - 10.0.9.8:
+	10.0.10.0 with metric 1
+	10.0.11.0 with metric 2
+	10.0.12.0 with metric 3
+	10.0.13.0 with metric 3
+	10.0.14.0 with metric 4
+	10.0.16.0 with metric 5
+
+00:00:27:135039:
+12:33:09:185074 - 10.0.10.8:
+	10.0.1.0 with metric 5
+	10.0.15.0 with metric 5
+	10.0.2.0 with metric 4
+	10.0.3.0 with metric 3
+	10.0.4.0 with metric 3
+	10.0.5.0 with metric 3
+	10.0.6.0 with metric 3
+	10.0.7.0 with metric 2
+	10.0.8.0 with metric 2
+	10.0.9.0 with metric 1
+
+00:00:28:116359:
+12:33:10:166394 - 10.0.7.7:
+	10.0.10.0 with metric 2
+	10.0.11.0 with metric 3
+	10.0.6.0 with metric 2
+	10.0.8.0 with metric 1
+	10.0.9.0 with metric 1
+
+00:00:28:116617:
+12:33:10:166652 - 10.0.8.7:
+	10.0.1.0 with metric 4
+	10.0.10.0 with metric 2
+	10.0.11.0 with metric 3
+	10.0.12.0 with metric 3
+	10.0.13.0 with metric 4
+	10.0.14.0 with metric 5
+	10.0.15.0 with metric 4
+	10.0.16.0 with metric 5
+	10.0.2.0 with metric 3
+	10.0.3.0 with metric 2
+	10.0.4.0 with metric 2
+	10.0.5.0 with metric 2
+	10.0.7.0 with metric 1
+	10.0.9.0 with metric 1
+
+00:00:28:116958:
+12:33:10:166993 - 10.0.9.7:
+	10.0.1.0 with metric 4
+	10.0.12.0 with metric 3
+	10.0.13.0 with metric 4
+	10.0.14.0 with metric 5
+	10.0.15.0 with metric 4
+	10.0.16.0 with metric 5
+	10.0.2.0 with metric 3
+	10.0.3.0 with metric 2
+	10.0.4.0 with metric 2
+	10.0.5.0 with metric 2
+	10.0.6.0 with metric 2
+	10.0.7.0 with metric 1
+	10.0.8.0 with metric 1
+
+00:00:28:155887:
+12:33:10:205922 - 10.0.11.10:
+	10.0.1.0 with metric 3
+	10.0.12.0 with metric 1
+	10.0.13.0 with metric 1
+	10.0.14.0 with metric 2
+	10.0.15.0 with metric 3
+	10.0.16.0 with metric 3
+	10.0.2.0 with metric 2
+	10.0.3.0 with metric 2
+	10.0.4.0 with metric 3
+	10.0.5.0 with metric 3
+	10.0.6.0 with metric 4
+	10.0.7.0 with metric 3
+
+00:00:28:156045:
+12:33:10:206080 - 10.0.12.10:
+	10.0.10.0 with metric 2
+	10.0.11.0 with metric 1
+	10.0.13.0 with metric 1
+	10.0.14.0 with metric 2
+	10.0.16.0 with metric 3
+	10.0.8.0 with metric 4
+	10.0.9.0 with metric 3
+
+00:00:28:156215:
+12:33:10:206250 - 10.0.13.10:
+	10.0.1.0 with metric 3
+	10.0.10.0 with metric 2
+	10.0.11.0 with metric 1
+	10.0.12.0 with metric 1
+	10.0.15.0 with metric 3
+	10.0.2.0 with metric 2
+	10.0.3.0 with metric 2
+	10.0.4.0 with metric 3
+	10.0.5.0 with metric 3
+	10.0.6.0 with metric 4
+	10.0.7.0 with metric 3
+	10.0.8.0 with metric 4
+	10.0.9.0 with metric 3
+
+00:00:28:207012:
+12:33:10:257047 - 10.0.13.11:
+	10.0.1.0 with metric 3
+	10.0.14.0 with metric 1
+	10.0.15.0 with metric 2
+	10.0.16.0 with metric 2
+
+00:00:28:207283:
+12:33:10:257318 - 10.0.14.11:
+	10.0.10.0 with metric 3
+	10.0.11.0 with metric 2
+	10.0.12.0 with metric 2
+	10.0.13.0 with metric 1
+	10.0.2.0 with metric 3
+	10.0.3.0 with metric 3
+	10.0.4.0 with metric 4
+	10.0.5.0 with metric 4
+	10.0.6.0 with metric 5
+	10.0.7.0 with metric 4
+	10.0.8.0 with metric 5
+	10.0.9.0 with metric 4
+
+00:00:28:207503:
+12:33:10:257538 - 10.0.14.12:
+	10.0.1.0 with metric 2
+	10.0.15.0 with metric 1
+	10.0.16.0 with metric 1
+	10.0.2.0 with metric 2
+	10.0.3.0 with metric 3
+	10.0.4.0 with metric 4
+	10.0.5.0 with metric 4
+	10.0.6.0 with metric 5
+	10.0.7.0 with metric 4
+	10.0.8.0 with metric 5
+
+00:00:28:207838:
+12:33:10:257873 - 10.0.15.12:
+	10.0.10.0 with metric 4
+	10.0.11.0 with metric 3
+	10.0.12.0 with metric 3
+	10.0.13.0 with metric 2
+	10.0.14.0 with metric 1
+	10.0.16.0 with metric 1
+	10.0.9.0 with metric 5
+
+00:00:28:208106:
+12:33:10:258141 - 10.0.16.12:
+	10.0.1.0 with metric 2
+	10.0.10.0 with metric 4
+	10.0.11.0 with metric 3
+	10.0.12.0 with metric 3
+	10.0.13.0 with metric 2
+	10.0.14.0 with metric 1
+	10.0.15.0 with metric 1
+	10.0.2.0 with metric 2
+	10.0.3.0 with metric 3
+	10.0.4.0 with metric 4
+	10.0.5.0 with metric 4
+	10.0.6.0 with metric 5
+	10.0.7.0 with metric 4
+	10.0.8.0 with metric 5
+	10.0.9.0 with metric 5
+
+00:00:29:057497:
+12:33:11:107532 - 10.0.2.3:
+	10.0.10.0 with metric 3
+	10.0.11.0 with metric 2
+	10.0.12.0 with metric 1
+	10.0.13.0 with metric 2
+	10.0.14.0 with metric 3
+	10.0.3.0 with metric 1
+	10.0.4.0 with metric 2
+	10.0.5.0 with metric 2
+	10.0.6.0 with metric 3
+	10.0.7.0 with metric 2
+	10.0.8.0 with metric 3
+	10.0.9.0 with metric 3
+
+00:00:29:057845:
+12:33:11:107880 - 10.0.3.3:
+	10.0.1.0 with metric 2
+	10.0.10.0 with metric 3
+	10.0.11.0 with metric 2
+	10.0.12.0 with metric 1
+	10.0.13.0 with metric 2
+	10.0.14.0 with metric 3
+	10.0.15.0 with metric 2
+	10.0.16.0 with metric 3
+	10.0.2.0 with metric 1
+
+00:00:29:058169:
+12:33:11:108204 - 10.0.12.3:
+	10.0.1.0 with metric 2
+	10.0.15.0 with metric 2
+	10.0.16.0 with metric 3
+	10.0.2.0 with metric 1
+	10.0.3.0 with metric 1
+	10.0.4.0 with metric 2
+	10.0.5.0 with metric 2
+	10.0.6.0 with metric 3
+	10.0.7.0 with metric 2
+	10.0.8.0 with metric 3
+	10.0.9.0 with metric 3
+
+00:00:29:108217:
+12:33:11:158252 - 10.0.5.6:
+	10.0.10.0 with metric 3
+	10.0.11.0 with metric 4
+	10.0.6.0 with metric 1
+	10.0.8.0 with metric 1
+	10.0.9.0 with metric 2
+
+00:00:29:108471:
+12:33:11:158506 - 10.0.6.6:
+	10.0.1.0 with metric 4
+	10.0.10.0 with metric 3
+	10.0.11.0 with metric 4
+	10.0.12.0 with metric 3
+	10.0.13.0 with metric 4
+	10.0.14.0 with metric 5
+	10.0.15.0 with metric 4
+	10.0.16.0 with metric 5
+	10.0.2.0 with metric 3
+	10.0.3.0 with metric 2
+	10.0.4.0 with metric 2
+	10.0.5.0 with metric 1
+	10.0.7.0 with metric 2
+	10.0.8.0 with metric 1
+	10.0.9.0 with metric 2
+
+00:00:29:108837:
+12:33:11:158872 - 10.0.8.6:
+	10.0.1.0 with metric 4
+	10.0.12.0 with metric 3
+	10.0.13.0 with metric 4
+	10.0.14.0 with metric 5
+	10.0.15.0 with metric 4
+	10.0.16.0 with metric 5
+	10.0.2.0 with metric 3
+	10.0.3.0 with metric 2
+	10.0.4.0 with metric 2
+	10.0.5.0 with metric 1
+	10.0.6.0 with metric 1
+	10.0.7.0 with metric 2
+
+00:00:29:158650:
+12:33:11:208685 - 10.0.10.9:
+	10.0.1.0 with metric 4
+	10.0.11.0 with metric 1
+	10.0.12.0 with metric 2
+	10.0.13.0 with metric 2
+	10.0.14.0 with metric 3
+	10.0.15.0 with metric 4
+	10.0.16.0 with metric 4
+	10.0.2.0 with metric 3
+	10.0.3.0 with metric 3
+
+00:00:29:158944:
+12:33:11:208979 - 10.0.11.9:
+	10.0.10.0 with metric 1
+	10.0.4.0 with metric 4
+	10.0.5.0 with metric 4
+	10.0.6.0 with metric 4
+	10.0.7.0 with metric 3
+	10.0.8.0 with metric 3
+	10.0.9.0 with metric 2
+
+00:00:36:029099:
+12:33:18:079134 - 10.0.1.1:
+	10.0.10.0 with metric 5
+	10.0.11.0 with metric 4
+	10.0.13.0 with metric 3
+	10.0.14.0 with metric 2
+	10.0.16.0 with metric 1
+
+00:00:36:029341:
+12:33:18:079376 - 10.0.1.2:
+	10.0.10.0 with metric 4
+	10.0.11.0 with metric 3
+	10.0.12.0 with metric 2
+	10.0.13.0 with metric 3
+	10.0.14.0 with metric 2
+	10.0.15.0 with metric 1
+	10.0.2.0 with metric 1
+	10.0.3.0 with metric 2
+	10.0.4.0 with metric 3
+	10.0.5.0 with metric 3
+	10.0.6.0 with metric 4
+	10.0.7.0 with metric 3
+	10.0.8.0 with metric 4
+	10.0.9.0 with metric 4
+
+00:00:36:029501:
+12:33:18:079536 - 10.0.2.2:
+	10.0.1.0 with metric 1
+	10.0.13.0 with metric 3
+	10.0.14.0 with metric 2
+	10.0.15.0 with metric 1
+	10.0.16.0 with metric 2
+
+00:00:36:029654:
+12:33:18:079689 - 10.0.15.2:
+	10.0.1.0 with metric 1
+	10.0.10.0 with metric 4
+	10.0.11.0 with metric 3
+	10.0.12.0 with metric 2
+	10.0.16.0 with metric 2
+	10.0.2.0 with metric 1
+	10.0.3.0 with metric 2
+	10.0.4.0 with metric 3
+	10.0.5.0 with metric 3
+	10.0.6.0 with metric 4
+	10.0.7.0 with metric 3
+	10.0.8.0 with metric 4
+	10.0.9.0 with metric 4
+
+00:00:36:029918:
+12:33:18:079953 - 10.0.16.1:
+	10.0.1.0 with metric 1
+	10.0.12.0 with metric 3
+	10.0.15.0 with metric 2
+	10.0.2.0 with metric 2
+	10.0.3.0 with metric 3
+	10.0.4.0 with metric 4
+	10.0.5.0 with metric 4
+	10.0.6.0 with metric 5
+	10.0.7.0 with metric 4
+	10.0.8.0 with metric 5
+	10.0.9.0 with metric 5
+
+00:00:36:097103:
+12:33:18:147138 - 10.0.3.4:
+	10.0.10.0 with metric 3
+	10.0.4.0 with metric 1
+	10.0.5.0 with metric 1
+	10.0.6.0 with metric 2
+	10.0.7.0 with metric 1
+	10.0.8.0 with metric 2
+	10.0.9.0 with metric 2
+
+00:00:36:097389:
+12:33:18:147424 - 10.0.4.4:
+	10.0.1.0 with metric 3
+	10.0.10.0 with metric 3
+	10.0.11.0 with metric 3
+	10.0.12.0 with metric 2
+	10.0.13.0 with metric 3
+	10.0.14.0 with metric 4
+	10.0.15.0 with metric 3
+	10.0.16.0 with metric 4
+	10.0.2.0 with metric 2
+	10.0.3.0 with metric 1
+	10.0.5.0 with metric 1
+	10.0.7.0 with metric 1
+	10.0.8.0 with metric 2
+	10.0.9.0 with metric 2
+
+00:00:36:097604:
+12:33:18:147639 - 10.0.4.5:
+	10.0.6.0 with metric 1
+	10.0.8.0 with metric 2
+
+00:00:36:097773:
+12:33:18:147808 - 10.0.6.5:
+	10.0.1.0 with metric 4
+	10.0.10.0 with metric 4
+	10.0.11.0 with metric 4
+	10.0.12.0 with metric 3
+	10.0.13.0 with metric 4
+	10.0.14.0 with metric 5
+	10.0.15.0 with metric 4
+	10.0.16.0 with metric 5
+	10.0.2.0 with metric 3
+	10.0.3.0 with metric 2
+	10.0.4.0 with metric 1
+	10.0.5.0 with metric 2
+	10.0.7.0 with metric 2
+	10.0.9.0 with metric 3
+
+00:00:36:097823:
+12:33:18:147858 - 10.0.5.4:
+	10.0.1.0 with metric 3
+	10.0.10.0 with metric 3
+	10.0.11.0 with metric 3
+	10.0.12.0 with metric 2
+	10.0.13.0 with metric 3
+	10.0.14.0 with metric 4
+	10.0.15.0 with metric 3
+	10.0.16.0 with metric 4
+	10.0.2.0 with metric 2
+	10.0.3.0 with metric 1
+	10.0.4.0 with metric 1
+	10.0.6.0 with metric 2
+	10.0.7.0 with metric 1
+	10.0.9.0 with metric 2
+
+00:00:36:097977:
+12:33:18:148012 - 10.0.7.4:
+	10.0.1.0 with metric 3
+	10.0.11.0 with metric 3
+	10.0.12.0 with metric 2
+	10.0.13.0 with metric 3
+	10.0.14.0 with metric 4
+	10.0.15.0 with metric 3
+	10.0.16.0 with metric 4
+	10.0.2.0 with metric 2
+	10.0.3.0 with metric 1
+	10.0.4.0 with metric 1
+	10.0.5.0 with metric 1
+	10.0.6.0 with metric 2
+	10.0.8.0 with metric 2
+
+00:00:36:147824:
+12:33:18:197859 - 10.0.9.8:
+	10.0.10.0 with metric 1
+	10.0.11.0 with metric 2
+	10.0.12.0 with metric 3
+	10.0.13.0 with metric 3
+	10.0.14.0 with metric 4
+	10.0.16.0 with metric 5
+
+00:00:36:148088:
+12:33:18:198123 - 10.0.10.8:
+	10.0.1.0 with metric 5
+	10.0.15.0 with metric 5
+	10.0.2.0 with metric 4
+	10.0.3.0 with metric 3
+	10.0.4.0 with metric 3
+	10.0.5.0 with metric 3
+	10.0.6.0 with metric 3
+	10.0.7.0 with metric 2
+	10.0.8.0 with metric 2
+	10.0.9.0 with metric 1
+
+00:00:38:069985:
+12:33:20:120020 - 10.0.2.3:
+	10.0.10.0 with metric 3
+	10.0.11.0 with metric 2
+	10.0.12.0 with metric 1
+	10.0.13.0 with metric 2
+	10.0.14.0 with metric 3
+	10.0.3.0 with metric 1
+	10.0.4.0 with metric 2
+	10.0.5.0 with metric 2
+	10.0.6.0 with metric 3
+	10.0.7.0 with metric 2
+	10.0.8.0 with metric 3
+	10.0.9.0 with metric 3
+
+00:00:38:070299:
+12:33:20:120334 - 10.0.3.3:
+	10.0.1.0 with metric 2
+	10.0.10.0 with metric 3
+	10.0.11.0 with metric 2
+	10.0.12.0 with metric 1
+	10.0.13.0 with metric 2
+	10.0.14.0 with metric 3
+	10.0.15.0 with metric 2
+	10.0.16.0 with metric 3
+	10.0.2.0 with metric 1
+
+00:00:38:070589:
+12:33:20:120624 - 10.0.12.3:
+	10.0.1.0 with metric 2
+	10.0.15.0 with metric 2
+	10.0.16.0 with metric 3
+	10.0.2.0 with metric 1
+	10.0.3.0 with metric 1
+	10.0.4.0 with metric 2
+	10.0.5.0 with metric 2
+	10.0.6.0 with metric 3
+	10.0.7.0 with metric 2
+	10.0.8.0 with metric 3
+	10.0.9.0 with metric 3
+
+00:00:38:131112:
+12:33:20:181147 - 10.0.5.6:
+	10.0.10.0 with metric 3
+	10.0.11.0 with metric 4
+	10.0.6.0 with metric 1
+	10.0.8.0 with metric 1
+	10.0.9.0 with metric 2
+
+00:00:38:131366:
+12:33:20:181401 - 10.0.6.6:
+	10.0.1.0 with metric 4
+	10.0.10.0 with metric 3
+	10.0.11.0 with metric 4
+	10.0.12.0 with metric 3
+	10.0.13.0 with metric 4
+	10.0.14.0 with metric 5
+	10.0.15.0 with metric 4
+	10.0.16.0 with metric 5
+	10.0.2.0 with metric 3
+	10.0.3.0 with metric 2
+	10.0.4.0 with metric 2
+	10.0.5.0 with metric 1
+	10.0.7.0 with metric 2
+	10.0.8.0 with metric 1
+	10.0.9.0 with metric 2
+
+00:00:38:131518:
+12:33:20:181553 - 10.0.8.6:
+	10.0.1.0 with metric 4
+	10.0.12.0 with metric 3
+	10.0.13.0 with metric 4
+	10.0.14.0 with metric 5
+	10.0.15.0 with metric 4
+	10.0.16.0 with metric 5
+	10.0.2.0 with metric 3
+	10.0.3.0 with metric 2
+	10.0.4.0 with metric 2
+	10.0.5.0 with metric 1
+	10.0.6.0 with metric 1
+	10.0.7.0 with metric 2
+
+00:00:38:170826:
+12:33:20:220861 - 10.0.10.9:
+	10.0.1.0 with metric 4
+	10.0.11.0 with metric 1
+	10.0.12.0 with metric 2
+	10.0.13.0 with metric 2
+	10.0.14.0 with metric 3
+	10.0.15.0 with metric 4
+	10.0.16.0 with metric 4
+	10.0.2.0 with metric 3
+	10.0.3.0 with metric 3
+
+00:00:38:171139:
+12:33:20:221174 - 10.0.11.9:
+	10.0.10.0 with metric 1
+	10.0.4.0 with metric 4
+	10.0.5.0 with metric 4
+	10.0.6.0 with metric 4
+	10.0.7.0 with metric 3
+	10.0.8.0 with metric 3
+	10.0.9.0 with metric 2
+
+00:00:39:122993:
+12:33:21:173028 - 10.0.7.7:
+	10.0.10.0 with metric 2
+	10.0.11.0 with metric 3
+	10.0.6.0 with metric 2
+	10.0.8.0 with metric 1
+	10.0.9.0 with metric 1
+
+00:00:39:123280:
+12:33:21:173315 - 10.0.8.7:
+	10.0.1.0 with metric 4
+	10.0.10.0 with metric 2
+	10.0.11.0 with metric 3
+	10.0.12.0 with metric 3
+	10.0.13.0 with metric 4
+	10.0.14.0 with metric 5
+	10.0.15.0 with metric 4
+	10.0.16.0 with metric 5
+	10.0.2.0 with metric 3
+	10.0.3.0 with metric 2
+	10.0.4.0 with metric 2
+	10.0.5.0 with metric 2
+	10.0.7.0 with metric 1
+	10.0.9.0 with metric 1
+
+00:00:39:123431:
+12:33:21:173466 - 10.0.9.7:
+	10.0.1.0 with metric 4
+	10.0.12.0 with metric 3
+	10.0.13.0 with metric 4
+	10.0.14.0 with metric 5
+	10.0.15.0 with metric 4
+	10.0.16.0 with metric 5
+	10.0.2.0 with metric 3
+	10.0.3.0 with metric 2
+	10.0.4.0 with metric 2
+	10.0.5.0 with metric 2
+	10.0.6.0 with metric 2
+	10.0.7.0 with metric 1
+	10.0.8.0 with metric 1
+
+00:00:39:162680:
+12:33:21:212715 - 10.0.11.10:
+	10.0.1.0 with metric 3
+	10.0.12.0 with metric 1
+	10.0.13.0 with metric 1
+	10.0.14.0 with metric 2
+	10.0.15.0 with metric 3
+	10.0.16.0 with metric 3
+	10.0.2.0 with metric 2
+	10.0.3.0 with metric 2
+	10.0.4.0 with metric 3
+	10.0.5.0 with metric 3
+	10.0.6.0 with metric 4
+	10.0.7.0 with metric 3
+
+00:00:39:162837:
+12:33:21:212872 - 10.0.12.10:
+	10.0.10.0 with metric 2
+	10.0.11.0 with metric 1
+	10.0.13.0 with metric 1
+	10.0.14.0 with metric 2
+	10.0.16.0 with metric 3
+	10.0.8.0 with metric 4
+	10.0.9.0 with metric 3
+
+00:00:39:163157:
+12:33:21:213192 - 10.0.13.10:
+	10.0.1.0 with metric 3
+	10.0.10.0 with metric 2
+	10.0.11.0 with metric 1
+	10.0.12.0 with metric 1
+	10.0.15.0 with metric 3
+	10.0.2.0 with metric 2
+	10.0.3.0 with metric 2
+	10.0.4.0 with metric 3
+	10.0.5.0 with metric 3
+	10.0.6.0 with metric 4
+	10.0.7.0 with metric 3
+	10.0.8.0 with metric 4
+	10.0.9.0 with metric 3
+
+00:00:39:223961:
+12:33:21:273996 - 10.0.13.11:
+	10.0.1.0 with metric 3
+	10.0.14.0 with metric 1
+	10.0.15.0 with metric 2
+	10.0.16.0 with metric 2
+
+00:00:39:224246:
+12:33:21:274281 - 10.0.14.11:
+	10.0.10.0 with metric 3
+	10.0.11.0 with metric 2
+	10.0.12.0 with metric 2
+	10.0.13.0 with metric 1
+	10.0.2.0 with metric 3
+	10.0.3.0 with metric 3
+	10.0.4.0 with metric 4
+	10.0.5.0 with metric 4
+	10.0.6.0 with metric 5
+	10.0.7.0 with metric 4
+	10.0.8.0 with metric 5
+	10.0.9.0 with metric 4
+
+00:00:39:224506:
+12:33:21:274541 - 10.0.14.12:
+	10.0.1.0 with metric 2
+	10.0.15.0 with metric 1
+	10.0.16.0 with metric 1
+	10.0.2.0 with metric 2
+	10.0.3.0 with metric 3
+	10.0.4.0 with metric 4
+	10.0.5.0 with metric 4
+	10.0.6.0 with metric 5
+	10.0.7.0 with metric 4
+	10.0.8.0 with metric 5
+
+00:00:39:224810:
+12:33:21:274845 - 10.0.15.12:
+	10.0.10.0 with metric 4
+	10.0.11.0 with metric 3
+	10.0.12.0 with metric 3
+	10.0.13.0 with metric 2
+	10.0.14.0 with metric 1
+	10.0.16.0 with metric 1
+	10.0.9.0 with metric 5
+
+00:00:39:225084:
+12:33:21:275119 - 10.0.16.12:
+	10.0.1.0 with metric 2
+	10.0.10.0 with metric 4
+	10.0.11.0 with metric 3
+	10.0.12.0 with metric 3
+	10.0.13.0 with metric 2
+	10.0.14.0 with metric 1
+	10.0.15.0 with metric 1
+	10.0.2.0 with metric 2
+	10.0.3.0 with metric 3
+	10.0.4.0 with metric 4
+	10.0.5.0 with metric 4
+	10.0.6.0 with metric 5
+	10.0.7.0 with metric 4
+	10.0.8.0 with metric 5
+	10.0.9.0 with metric 5
+
+00:00:47:084966:
+12:33:29:135001 - 10.0.2.3:
+	10.0.10.0 with metric 3
+	10.0.11.0 with metric 2
+	10.0.12.0 with metric 1
+	10.0.13.0 with metric 2
+	10.0.14.0 with metric 3
+	10.0.3.0 with metric 1
+	10.0.4.0 with metric 2
+	10.0.5.0 with metric 2
+	10.0.6.0 with metric 3
+	10.0.7.0 with metric 2
+	10.0.8.0 with metric 3
+	10.0.9.0 with metric 3
+
+00:00:47:085326:
+12:33:29:135361 - 10.0.3.3:
+	10.0.1.0 with metric 2
+	10.0.10.0 with metric 3
+	10.0.11.0 with metric 2
+	10.0.12.0 with metric 1
+	10.0.13.0 with metric 2
+	10.0.14.0 with metric 3
+	10.0.15.0 with metric 2
+	10.0.16.0 with metric 3
+	10.0.2.0 with metric 1
+
+00:00:47:085641:
+12:33:29:135676 - 10.0.12.3:
+	10.0.1.0 with metric 2
+	10.0.15.0 with metric 2
+	10.0.16.0 with metric 3
+	10.0.2.0 with metric 1
+	10.0.3.0 with metric 1
+	10.0.4.0 with metric 2
+	10.0.5.0 with metric 2
+	10.0.6.0 with metric 3
+	10.0.7.0 with metric 2
+	10.0.8.0 with metric 3
+	10.0.9.0 with metric 3
+
+00:00:47:135619:
+12:33:29:185654 - 10.0.5.6:
+	10.0.10.0 with metric 3
+	10.0.11.0 with metric 4
+	10.0.6.0 with metric 1
+	10.0.8.0 with metric 1
+	10.0.9.0 with metric 2
+
+00:00:47:135886:
+12:33:29:185921 - 10.0.6.6:
+	10.0.1.0 with metric 4
+	10.0.10.0 with metric 3
+	10.0.11.0 with metric 4
+	10.0.12.0 with metric 3
+	10.0.13.0 with metric 4
+	10.0.14.0 with metric 5
+	10.0.15.0 with metric 4
+	10.0.16.0 with metric 5
+	10.0.2.0 with metric 3
+	10.0.3.0 with metric 2
+	10.0.4.0 with metric 2
+	10.0.5.0 with metric 1
+	10.0.7.0 with metric 2
+	10.0.8.0 with metric 1
+	10.0.9.0 with metric 2
+
+00:00:47:136040:
+12:33:29:186075 - 10.0.8.6:
+	10.0.1.0 with metric 4
+	10.0.12.0 with metric 3
+	10.0.13.0 with metric 4
+	10.0.14.0 with metric 5
+	10.0.15.0 with metric 4
+	10.0.16.0 with metric 5
+	10.0.2.0 with metric 3
+	10.0.3.0 with metric 2
+	10.0.4.0 with metric 2
+	10.0.5.0 with metric 1
+	10.0.6.0 with metric 1
+	10.0.7.0 with metric 2
+
+00:00:47:179843:
+12:33:29:229878 - 10.0.10.9:
+	10.0.1.0 with metric 4
+	10.0.11.0 with metric 1
+	10.0.12.0 with metric 2
+	10.0.13.0 with metric 2
+	10.0.14.0 with metric 3
+	10.0.15.0 with metric 4
+	10.0.16.0 with metric 4
+	10.0.2.0 with metric 3
+	10.0.3.0 with metric 3
+
+00:00:47:180167:
+12:33:29:230202 - 10.0.11.9:
+	10.0.10.0 with metric 1
+	10.0.4.0 with metric 4
+	10.0.5.0 with metric 4
+	10.0.6.0 with metric 4
+	10.0.7.0 with metric 3
+	10.0.8.0 with metric 3
+	10.0.9.0 with metric 2
+
+00:00:48:036699:
+12:33:30:086734 - 10.0.1.2:
+	10.0.10.0 with metric 4
+	10.0.11.0 with metric 3
+	10.0.12.0 with metric 2
+	10.0.13.0 with metric 3
+	10.0.14.0 with metric 2
+	10.0.15.0 with metric 1
+	10.0.2.0 with metric 1
+	10.0.3.0 with metric 2
+	10.0.4.0 with metric 3
+	10.0.5.0 with metric 3
+	10.0.6.0 with metric 4
+	10.0.7.0 with metric 3
+	10.0.8.0 with metric 4
+	10.0.9.0 with metric 4
+
+00:00:48:036936:
+12:33:30:086971 - 10.0.1.1:
+	10.0.10.0 with metric 5
+	10.0.11.0 with metric 4
+	10.0.13.0 with metric 3
+	10.0.14.0 with metric 2
+	10.0.16.0 with metric 1
+
+00:00:48:037114:
+12:33:30:087149 - 10.0.2.2:
+	10.0.1.0 with metric 1
+	10.0.13.0 with metric 3
+	10.0.14.0 with metric 2
+	10.0.15.0 with metric 1
+	10.0.16.0 with metric 2
+
+00:00:48:037269:
+12:33:30:087304 - 10.0.15.2:
+	10.0.1.0 with metric 1
+	10.0.10.0 with metric 4
+	10.0.11.0 with metric 3
+	10.0.12.0 with metric 2
+	10.0.16.0 with metric 2
+	10.0.2.0 with metric 1
+	10.0.3.0 with metric 2
+	10.0.4.0 with metric 3
+	10.0.5.0 with metric 3
+	10.0.6.0 with metric 4
+	10.0.7.0 with metric 3
+	10.0.8.0 with metric 4
+	10.0.9.0 with metric 4
+
+00:00:48:037570:
+12:33:30:087605 - 10.0.16.1:
+	10.0.1.0 with metric 1
+	10.0.12.0 with metric 3
+	10.0.15.0 with metric 2
+	10.0.2.0 with metric 2
+	10.0.3.0 with metric 3
+	10.0.4.0 with metric 4
+	10.0.5.0 with metric 4
+	10.0.6.0 with metric 5
+	10.0.7.0 with metric 4
+	10.0.8.0 with metric 5
+	10.0.9.0 with metric 5
+
+00:00:48:107178:
+12:33:30:157213 - 10.0.3.4:
+	10.0.10.0 with metric 3
+	10.0.4.0 with metric 1
+	10.0.5.0 with metric 1
+	10.0.6.0 with metric 2
+	10.0.7.0 with metric 1
+	10.0.8.0 with metric 2
+	10.0.9.0 with metric 2
+
+00:00:48:107471:
+12:33:30:157506 - 10.0.4.4:
+	10.0.1.0 with metric 3
+	10.0.10.0 with metric 3
+	10.0.11.0 with metric 3
+	10.0.12.0 with metric 2
+	10.0.13.0 with metric 3
+	10.0.14.0 with metric 4
+	10.0.15.0 with metric 3
+	10.0.16.0 with metric 4
+	10.0.2.0 with metric 2
+	10.0.3.0 with metric 1
+	10.0.5.0 with metric 1
+	10.0.7.0 with metric 1
+	10.0.8.0 with metric 2
+	10.0.9.0 with metric 2
+
+00:00:48:107680:
+12:33:30:157715 - 10.0.4.5:
+	10.0.6.0 with metric 1
+	10.0.8.0 with metric 2
+
+00:00:48:107858:
+12:33:30:157893 - 10.0.5.4:
+	10.0.1.0 with metric 3
+	10.0.10.0 with metric 3
+	10.0.11.0 with metric 3
+	10.0.12.0 with metric 2
+	10.0.13.0 with metric 3
+	10.0.14.0 with metric 4
+	10.0.15.0 with metric 3
+	10.0.16.0 with metric 4
+	10.0.2.0 with metric 2
+	10.0.3.0 with metric 1
+	10.0.4.0 with metric 1
+	10.0.6.0 with metric 2
+	10.0.7.0 with metric 1
+	10.0.9.0 with metric 2
+
+00:00:48:107922:
+12:33:30:157957 - 10.0.6.5:
+	10.0.1.0 with metric 4
+	10.0.10.0 with metric 4
+	10.0.11.0 with metric 4
+	10.0.12.0 with metric 3
+	10.0.13.0 with metric 4
+	10.0.14.0 with metric 5
+	10.0.15.0 with metric 4
+	10.0.16.0 with metric 5
+	10.0.2.0 with metric 3
+	10.0.3.0 with metric 2
+	10.0.4.0 with metric 1
+	10.0.5.0 with metric 2
+	10.0.7.0 with metric 2
+	10.0.9.0 with metric 3
+
+00:00:48:108015:
+12:33:30:158050 - 10.0.7.4:
+	10.0.1.0 with metric 3
+	10.0.11.0 with metric 3
+	10.0.12.0 with metric 2
+	10.0.13.0 with metric 3
+	10.0.14.0 with metric 4
+	10.0.15.0 with metric 3
+	10.0.16.0 with metric 4
+	10.0.2.0 with metric 2
+	10.0.3.0 with metric 1
+	10.0.4.0 with metric 1
+	10.0.5.0 with metric 1
+	10.0.6.0 with metric 2
+	10.0.8.0 with metric 2
+
+00:00:48:138882:
+12:33:30:188917 - 10.0.7.7:
+	10.0.10.0 with metric 2
+	10.0.11.0 with metric 3
+	10.0.6.0 with metric 2
+	10.0.8.0 with metric 1
+	10.0.9.0 with metric 1
+
+00:00:48:139159:
+12:33:30:189194 - 10.0.8.7:
+	10.0.1.0 with metric 4
+	10.0.10.0 with metric 2
+	10.0.11.0 with metric 3
+	10.0.12.0 with metric 3
+	10.0.13.0 with metric 4
+	10.0.14.0 with metric 5
+	10.0.15.0 with metric 4
+	10.0.16.0 with metric 5
+	10.0.2.0 with metric 3
+	10.0.3.0 with metric 2
+	10.0.4.0 with metric 2
+	10.0.5.0 with metric 2
+	10.0.7.0 with metric 1
+	10.0.9.0 with metric 1
+
+00:00:48:139310:
+12:33:30:189345 - 10.0.9.7:
+	10.0.1.0 with metric 4
+	10.0.12.0 with metric 3
+	10.0.13.0 with metric 4
+	10.0.14.0 with metric 5
+	10.0.15.0 with metric 4
+	10.0.16.0 with metric 5
+	10.0.2.0 with metric 3
+	10.0.3.0 with metric 2
+	10.0.4.0 with metric 2
+	10.0.5.0 with metric 2
+	10.0.6.0 with metric 2
+	10.0.7.0 with metric 1
+	10.0.8.0 with metric 1
+
+00:00:48:160031:
+12:33:30:210066 - 10.0.9.8:
+	10.0.10.0 with metric 1
+	10.0.11.0 with metric 2
+	10.0.12.0 with metric 3
+	10.0.13.0 with metric 3
+	10.0.14.0 with metric 4
+	10.0.16.0 with metric 5
+
+00:00:48:160305:
+12:33:30:210340 - 10.0.10.8:
+	10.0.1.0 with metric 5
+	10.0.15.0 with metric 5
+	10.0.2.0 with metric 4
+	10.0.3.0 with metric 3
+	10.0.4.0 with metric 3
+	10.0.5.0 with metric 3
+	10.0.6.0 with metric 3
+	10.0.7.0 with metric 2
+	10.0.8.0 with metric 2
+	10.0.9.0 with metric 1
+
+00:00:48:181725:
+12:33:30:231760 - 10.0.11.10:
+	10.0.1.0 with metric 3
+	10.0.12.0 with metric 1
+	10.0.13.0 with metric 1
+	10.0.14.0 with metric 2
+	10.0.15.0 with metric 3
+	10.0.16.0 with metric 3
+	10.0.2.0 with metric 2
+	10.0.3.0 with metric 2
+	10.0.4.0 with metric 3
+	10.0.5.0 with metric 3
+	10.0.6.0 with metric 4
+	10.0.7.0 with metric 3
+
+00:00:48:182067:
+12:33:30:232102 - 10.0.12.10:
+	10.0.10.0 with metric 2
+	10.0.11.0 with metric 1
+	10.0.13.0 with metric 1
+	10.0.14.0 with metric 2
+	10.0.16.0 with metric 3
+	10.0.8.0 with metric 4
+	10.0.9.0 with metric 3
+
+00:00:48:182346:
+12:33:30:232381 - 10.0.13.10:
+	10.0.1.0 with metric 3
+	10.0.10.0 with metric 2
+	10.0.11.0 with metric 1
+	10.0.12.0 with metric 1
+	10.0.15.0 with metric 3
+	10.0.2.0 with metric 2
+	10.0.3.0 with metric 2
+	10.0.4.0 with metric 3
+	10.0.5.0 with metric 3
+	10.0.6.0 with metric 4
+	10.0.7.0 with metric 3
+	10.0.8.0 with metric 4
+	10.0.9.0 with metric 3
+
+00:00:48:229185:
+12:33:30:279220 - 10.0.14.12:
+	10.0.1.0 with metric 2
+	10.0.15.0 with metric 1
+	10.0.16.0 with metric 1
+	10.0.2.0 with metric 2
+	10.0.3.0 with metric 3
+	10.0.4.0 with metric 4
+	10.0.5.0 with metric 4
+	10.0.6.0 with metric 5
+	10.0.7.0 with metric 4
+	10.0.8.0 with metric 5
+
+00:00:48:229397:
+12:33:30:279432 - 10.0.13.11:
+	10.0.1.0 with metric 3
+	10.0.14.0 with metric 1
+	10.0.15.0 with metric 2
+	10.0.16.0 with metric 2
+
+00:00:48:229501:
+12:33:30:279536 - 10.0.15.12:
+	10.0.10.0 with metric 4
+	10.0.11.0 with metric 3
+	10.0.12.0 with metric 3
+	10.0.13.0 with metric 2
+	10.0.14.0 with metric 1
+	10.0.16.0 with metric 1
+	10.0.9.0 with metric 5
+
+00:00:48:229648:
+12:33:30:279683 - 10.0.14.11:
+	10.0.10.0 with metric 3
+	10.0.11.0 with metric 2
+	10.0.12.0 with metric 2
+	10.0.13.0 with metric 1
+	10.0.2.0 with metric 3
+	10.0.3.0 with metric 3
+	10.0.4.0 with metric 4
+	10.0.5.0 with metric 4
+	10.0.6.0 with metric 5
+	10.0.7.0 with metric 4
+	10.0.8.0 with metric 5
+	10.0.9.0 with metric 4
+
+00:00:48:230006:
+12:33:30:280041 - 10.0.16.12:
+	10.0.1.0 with metric 2
+	10.0.10.0 with metric 4
+	10.0.11.0 with metric 3
+	10.0.12.0 with metric 3
+	10.0.13.0 with metric 2
+	10.0.14.0 with metric 1
+	10.0.15.0 with metric 1
+	10.0.2.0 with metric 2
+	10.0.3.0 with metric 3
+	10.0.4.0 with metric 4
+	10.0.5.0 with metric 4
+	10.0.6.0 with metric 5
+	10.0.7.0 with metric 4
+	10.0.8.0 with metric 5
+	10.0.9.0 with metric 5
+
+00:00:57:050428:
+12:33:39:100463 - 10.0.1.1:
+	10.0.10.0 with metric 5
+	10.0.11.0 with metric 4
+	10.0.13.0 with metric 3
+	10.0.14.0 with metric 2
+	10.0.16.0 with metric 1
+
+00:00:57:050679:
+12:33:39:100714 - 10.0.1.2:
+	10.0.10.0 with metric 4
+	10.0.11.0 with metric 3
+	10.0.12.0 with metric 2
+	10.0.13.0 with metric 3
+	10.0.14.0 with metric 2
+	10.0.15.0 with metric 1
+	10.0.2.0 with metric 1
+	10.0.3.0 with metric 2
+	10.0.4.0 with metric 3
+	10.0.5.0 with metric 3
+	10.0.6.0 with metric 4
+	10.0.7.0 with metric 3
+	10.0.8.0 with metric 4
+	10.0.9.0 with metric 4
+
+00:00:57:050836:
+12:33:39:100871 - 10.0.2.2:
+	10.0.1.0 with metric 1
+	10.0.13.0 with metric 3
+	10.0.14.0 with metric 2
+	10.0.15.0 with metric 1
+	10.0.16.0 with metric 2
+
+00:00:57:051008:
+12:33:39:101043 - 10.0.15.2:
+	10.0.1.0 with metric 1
+	10.0.10.0 with metric 4
+	10.0.11.0 with metric 3
+	10.0.12.0 with metric 2
+	10.0.16.0 with metric 2
+	10.0.2.0 with metric 1
+	10.0.3.0 with metric 2
+	10.0.4.0 with metric 3
+	10.0.5.0 with metric 3
+	10.0.6.0 with metric 4
+	10.0.7.0 with metric 3
+	10.0.8.0 with metric 4
+	10.0.9.0 with metric 4
+
+00:00:57:051302:
+12:33:39:101337 - 10.0.16.1:
+	10.0.1.0 with metric 1
+	10.0.12.0 with metric 3
+	10.0.15.0 with metric 2
+	10.0.2.0 with metric 2
+	10.0.3.0 with metric 3
+	10.0.4.0 with metric 4
+	10.0.5.0 with metric 4
+	10.0.6.0 with metric 5
+	10.0.7.0 with metric 4
+	10.0.8.0 with metric 5
+	10.0.9.0 with metric 5
+
+00:00:57:120404:
+12:33:39:170439 - 10.0.4.5:
+	10.0.6.0 with metric 1
+	10.0.8.0 with metric 2
+
+00:00:57:120640:
+12:33:39:170675 - 10.0.3.4:
+	10.0.10.0 with metric 3
+	10.0.4.0 with metric 1
+	10.0.5.0 with metric 1
+	10.0.6.0 with metric 2
+	10.0.7.0 with metric 1
+	10.0.8.0 with metric 2
+	10.0.9.0 with metric 2
+
+00:00:57:120644:
+12:33:39:170679 - 10.0.6.5:
+	10.0.1.0 with metric 4
+	10.0.10.0 with metric 4
+	10.0.11.0 with metric 4
+	10.0.12.0 with metric 3
+	10.0.13.0 with metric 4
+	10.0.14.0 with metric 5
+	10.0.15.0 with metric 4
+	10.0.16.0 with metric 5
+	10.0.2.0 with metric 3
+	10.0.3.0 with metric 2
+	10.0.4.0 with metric 1
+	10.0.5.0 with metric 2
+	10.0.7.0 with metric 2
+	10.0.9.0 with metric 3
+
+00:00:57:121011:
+12:33:39:171046 - 10.0.4.4:
+	10.0.1.0 with metric 3
+	10.0.10.0 with metric 3
+	10.0.11.0 with metric 3
+	10.0.12.0 with metric 2
+	10.0.13.0 with metric 3
+	10.0.14.0 with metric 4
+	10.0.15.0 with metric 3
+	10.0.16.0 with metric 4
+	10.0.2.0 with metric 2
+	10.0.3.0 with metric 1
+	10.0.5.0 with metric 1
+	10.0.7.0 with metric 1
+	10.0.8.0 with metric 2
+	10.0.9.0 with metric 2
+
+00:00:57:121377:
+12:33:39:171412 - 10.0.5.4:
+	10.0.1.0 with metric 3
+	10.0.10.0 with metric 3
+	10.0.11.0 with metric 3
+	10.0.12.0 with metric 2
+	10.0.13.0 with metric 3
+	10.0.14.0 with metric 4
+	10.0.15.0 with metric 3
+	10.0.16.0 with metric 4
+	10.0.2.0 with metric 2
+	10.0.3.0 with metric 1
+	10.0.4.0 with metric 1
+	10.0.6.0 with metric 2
+	10.0.7.0 with metric 1
+	10.0.9.0 with metric 2
+
+00:00:57:121541:
+12:33:39:171576 - 10.0.7.4:
+	10.0.1.0 with metric 3
+	10.0.11.0 with metric 3
+	10.0.12.0 with metric 2
+	10.0.13.0 with metric 3
+	10.0.14.0 with metric 4
+	10.0.15.0 with metric 3
+	10.0.16.0 with metric 4
+	10.0.2.0 with metric 2
+	10.0.3.0 with metric 1
+	10.0.4.0 with metric 1
+	10.0.5.0 with metric 1
+	10.0.6.0 with metric 2
+	10.0.8.0 with metric 2
+
+00:00:57:142323:
+12:33:39:192358 - 10.0.7.7:
+	10.0.10.0 with metric 2
+	10.0.11.0 with metric 3
+	10.0.6.0 with metric 2
+	10.0.8.0 with metric 1
+	10.0.9.0 with metric 1
+
+00:00:57:142580:
+12:33:39:192615 - 10.0.8.7:
+	10.0.1.0 with metric 4
+	10.0.10.0 with metric 2
+	10.0.11.0 with metric 3
+	10.0.12.0 with metric 3
+	10.0.13.0 with metric 4
+	10.0.14.0 with metric 5
+	10.0.15.0 with metric 4
+	10.0.16.0 with metric 5
+	10.0.2.0 with metric 3
+	10.0.3.0 with metric 2
+	10.0.4.0 with metric 2
+	10.0.5.0 with metric 2
+	10.0.7.0 with metric 1
+	10.0.9.0 with metric 1
+
+00:00:57:142733:
+12:33:39:192768 - 10.0.9.7:
+	10.0.1.0 with metric 4
+	10.0.12.0 with metric 3
+	10.0.13.0 with metric 4
+	10.0.14.0 with metric 5
+	10.0.15.0 with metric 4
+	10.0.16.0 with metric 5
+	10.0.2.0 with metric 3
+	10.0.3.0 with metric 2
+	10.0.4.0 with metric 2
+	10.0.5.0 with metric 2
+	10.0.6.0 with metric 2
+	10.0.7.0 with metric 1
+	10.0.8.0 with metric 1
+
+00:00:57:173289:
+12:33:39:223324 - 10.0.9.8:
+	10.0.10.0 with metric 1
+	10.0.11.0 with metric 2
+	10.0.12.0 with metric 3
+	10.0.13.0 with metric 3
+	10.0.14.0 with metric 4
+	10.0.16.0 with metric 5
+
+00:00:57:173566:
+12:33:39:223601 - 10.0.10.8:
+	10.0.1.0 with metric 5
+	10.0.15.0 with metric 5
+	10.0.2.0 with metric 4
+	10.0.3.0 with metric 3
+	10.0.4.0 with metric 3
+	10.0.5.0 with metric 3
+	10.0.6.0 with metric 3
+	10.0.7.0 with metric 2
+	10.0.8.0 with metric 2
+	10.0.9.0 with metric 1
+
+00:00:57:192554:
+12:33:39:242589 - 10.0.11.10:
+	10.0.1.0 with metric 3
+	10.0.12.0 with metric 1
+	10.0.13.0 with metric 1
+	10.0.14.0 with metric 2
+	10.0.15.0 with metric 3
+	10.0.16.0 with metric 3
+	10.0.2.0 with metric 2
+	10.0.3.0 with metric 2
+	10.0.4.0 with metric 3
+	10.0.5.0 with metric 3
+	10.0.6.0 with metric 4
+	10.0.7.0 with metric 3
+
+00:00:57:192906:
+12:33:39:242941 - 10.0.12.10:
+	10.0.10.0 with metric 2
+	10.0.11.0 with metric 1
+	10.0.13.0 with metric 1
+	10.0.14.0 with metric 2
+	10.0.16.0 with metric 3
+	10.0.8.0 with metric 4
+	10.0.9.0 with metric 3
+
+00:00:57:193189:
+12:33:39:243224 - 10.0.13.10:
+	10.0.1.0 with metric 3
+	10.0.10.0 with metric 2
+	10.0.11.0 with metric 1
+	10.0.12.0 with metric 1
+	10.0.15.0 with metric 3
+	10.0.2.0 with metric 2
+	10.0.3.0 with metric 2
+	10.0.4.0 with metric 3
+	10.0.5.0 with metric 3
+	10.0.6.0 with metric 4
+	10.0.7.0 with metric 3
+	10.0.8.0 with metric 4
+	10.0.9.0 with metric 3
+
+00:00:57:232459:
+12:33:39:282494 - 10.0.14.12:
+	10.0.1.0 with metric 2
+	10.0.15.0 with metric 1
+	10.0.16.0 with metric 1
+	10.0.2.0 with metric 2
+	10.0.3.0 with metric 3
+	10.0.4.0 with metric 4
+	10.0.5.0 with metric 4
+	10.0.6.0 with metric 5
+	10.0.7.0 with metric 4
+	10.0.8.0 with metric 5
+
+00:00:57:232670:
+12:33:39:282705 - 10.0.13.11:
+	10.0.1.0 with metric 3
+	10.0.14.0 with metric 1
+	10.0.15.0 with metric 2
+	10.0.16.0 with metric 2
+
+00:00:57:232775:
+12:33:39:282810 - 10.0.15.12:
+	10.0.10.0 with metric 4
+	10.0.11.0 with metric 3
+	10.0.12.0 with metric 3
+	10.0.13.0 with metric 2
+	10.0.14.0 with metric 1
+	10.0.16.0 with metric 1
+	10.0.9.0 with metric 5
+
+00:00:57:232923:
+12:33:39:282958 - 10.0.14.11:
+	10.0.10.0 with metric 3
+	10.0.11.0 with metric 2
+	10.0.12.0 with metric 2
+	10.0.13.0 with metric 1
+	10.0.2.0 with metric 3
+	10.0.3.0 with metric 3
+	10.0.4.0 with metric 4
+	10.0.5.0 with metric 4
+	10.0.6.0 with metric 5
+	10.0.7.0 with metric 4
+	10.0.8.0 with metric 5
+	10.0.9.0 with metric 4
+
+00:00:57:233093:
+12:33:39:283128 - 10.0.16.12:
+	10.0.1.0 with metric 2
+	10.0.10.0 with metric 4
+	10.0.11.0 with metric 3
+	10.0.12.0 with metric 3
+	10.0.13.0 with metric 2
+	10.0.14.0 with metric 1
+	10.0.15.0 with metric 1
+	10.0.2.0 with metric 2
+	10.0.3.0 with metric 3
+	10.0.4.0 with metric 4
+	10.0.5.0 with metric 4
+	10.0.6.0 with metric 5
+	10.0.7.0 with metric 4
+	10.0.8.0 with metric 5
+	10.0.9.0 with metric 5
+
+00:00:59:095589:
+12:33:41:145624 - 10.0.2.3:
+	10.0.10.0 with metric 3
+	10.0.11.0 with metric 2
+	10.0.12.0 with metric 1
+	10.0.13.0 with metric 2
+	10.0.14.0 with metric 3
+	10.0.3.0 with metric 1
+	10.0.4.0 with metric 2
+	10.0.5.0 with metric 2
+	10.0.6.0 with metric 3
+	10.0.7.0 with metric 2
+	10.0.8.0 with metric 3
+	10.0.9.0 with metric 3
+
+00:00:59:095917:
+12:33:41:145952 - 10.0.3.3:
+	10.0.1.0 with metric 2
+	10.0.10.0 with metric 3
+	10.0.11.0 with metric 2
+	10.0.12.0 with metric 1
+	10.0.13.0 with metric 2
+	10.0.14.0 with metric 3
+	10.0.15.0 with metric 2
+	10.0.16.0 with metric 3
+	10.0.2.0 with metric 1
+
+00:00:59:096089:
+12:33:41:146124 - 10.0.12.3:
+	10.0.1.0 with metric 2
+	10.0.15.0 with metric 2
+	10.0.16.0 with metric 3
+	10.0.2.0 with metric 1
+	10.0.3.0 with metric 1
+	10.0.4.0 with metric 2
+	10.0.5.0 with metric 2
+	10.0.6.0 with metric 3
+	10.0.7.0 with metric 2
+	10.0.8.0 with metric 3
+	10.0.9.0 with metric 3
+
+00:00:59:146109:
+12:33:41:196144 - 10.0.5.6:
+	10.0.10.0 with metric 3
+	10.0.11.0 with metric 4
+	10.0.6.0 with metric 1
+	10.0.8.0 with metric 1
+	10.0.9.0 with metric 2
+
+00:00:59:146365:
+12:33:41:196400 - 10.0.6.6:
+	10.0.1.0 with metric 4
+	10.0.10.0 with metric 3
+	10.0.11.0 with metric 4
+	10.0.12.0 with metric 3
+	10.0.13.0 with metric 4
+	10.0.14.0 with metric 5
+	10.0.15.0 with metric 4
+	10.0.16.0 with metric 5
+	10.0.2.0 with metric 3
+	10.0.3.0 with metric 2
+	10.0.4.0 with metric 2
+	10.0.5.0 with metric 1
+	10.0.7.0 with metric 2
+	10.0.8.0 with metric 1
+	10.0.9.0 with metric 2
+
+00:00:59:146696:
+12:33:41:196731 - 10.0.8.6:
+	10.0.1.0 with metric 4
+	10.0.12.0 with metric 3
+	10.0.13.0 with metric 4
+	10.0.14.0 with metric 5
+	10.0.15.0 with metric 4
+	10.0.16.0 with metric 5
+	10.0.2.0 with metric 3
+	10.0.3.0 with metric 2
+	10.0.4.0 with metric 2
+	10.0.5.0 with metric 1
+	10.0.6.0 with metric 1
+	10.0.7.0 with metric 2
+
+00:00:59:195884:
+12:33:41:245919 - 10.0.10.9:
+	10.0.1.0 with metric 4
+	10.0.11.0 with metric 1
+	10.0.12.0 with metric 2
+	10.0.13.0 with metric 2
+	10.0.14.0 with metric 3
+	10.0.15.0 with metric 4
+	10.0.16.0 with metric 4
+	10.0.2.0 with metric 3
+	10.0.3.0 with metric 3
+
+00:00:59:196061:
+12:33:41:246096 - 10.0.11.9:
+	10.0.10.0 with metric 1
+	10.0.4.0 with metric 4
+	10.0.5.0 with metric 4
+	10.0.6.0 with metric 4
+	10.0.7.0 with metric 3
+	10.0.8.0 with metric 3
+	10.0.9.0 with metric 2
+
+00:01:05:053866:
+12:33:47:103901 - 10.0.1.2:
+	10.0.10.0 with metric 4
+	10.0.11.0 with metric 3
+	10.0.12.0 with metric 2
+	10.0.13.0 with metric 3
+	10.0.14.0 with metric 2
+	10.0.15.0 with metric 1
+	10.0.2.0 with metric 1
+	10.0.3.0 with metric 2
+	10.0.4.0 with metric 3
+	10.0.5.0 with metric 3
+	10.0.6.0 with metric 4
+	10.0.7.0 with metric 3
+	10.0.8.0 with metric 4
+	10.0.9.0 with metric 4
+
+00:01:05:054113:
+12:33:47:104148 - 10.0.1.1:
+	10.0.10.0 with metric 5
+	10.0.11.0 with metric 4
+	10.0.13.0 with metric 3
+	10.0.14.0 with metric 2
+	10.0.16.0 with metric 1
+
+00:01:05:054265:
+12:33:47:104300 - 10.0.2.2:
+	10.0.1.0 with metric 1
+	10.0.13.0 with metric 3
+	10.0.14.0 with metric 2
+	10.0.15.0 with metric 1
+	10.0.16.0 with metric 2
+
+00:01:05:054423:
+12:33:47:104458 - 10.0.15.2:
+	10.0.1.0 with metric 1
+	10.0.10.0 with metric 4
+	10.0.11.0 with metric 3
+	10.0.12.0 with metric 2
+	10.0.16.0 with metric 2
+	10.0.2.0 with metric 1
+	10.0.3.0 with metric 2
+	10.0.4.0 with metric 3
+	10.0.5.0 with metric 3
+	10.0.6.0 with metric 4
+	10.0.7.0 with metric 3
+	10.0.8.0 with metric 4
+	10.0.9.0 with metric 4
+
+00:01:05:054754:
+12:33:47:104789 - 10.0.16.1:
+	10.0.1.0 with metric 1
+	10.0.12.0 with metric 3
+	10.0.15.0 with metric 2
+	10.0.2.0 with metric 2
+	10.0.3.0 with metric 3
+	10.0.4.0 with metric 4
+	10.0.5.0 with metric 4
+	10.0.6.0 with metric 5
+	10.0.7.0 with metric 4
+	10.0.8.0 with metric 5
+	10.0.9.0 with metric 5
+

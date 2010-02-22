@@ -1,0 +1,36 @@
+# arpa73
+#
+# number of vertices: 		24
+# number of edges: 		28
+# diameter: 			8
+# number of cycles: 		5
+# clustering coefficient: 	0.0966666666666667
+# leaves: 			
+# articulations: 		
+
+net1,net10,net11,net12,net13,net14,net15,net16,net17,net18,net19,net2,net20,net21,net22,net23,net24,net25,net26,net27,net28,net3,net4,net5,net6,net7,net8,net9
+
+r1 net1,net6,net7
+r10 net10,net15
+r11 net11,net16
+r12 net19,net6
+r13 net12,net20
+r14 net13,net21
+r15 net15,net17
+r16 net16,net18
+r17 net14,net17,net22
+r18 net18,net23
+r19 net19,net24
+r2 net1,net2
+r20 net20,net21,net24,net25
+r21 net22,net25,net26
+r22 net26,net27
+r23 net27,net28
+r24 net23,net28
+r3 net2,net3,net8,net9
+r4 net3,net4
+r5 net4,net5
+r6 net10,net11,net5
+r7 net12,net7
+r8 net13,net8
+r9 net14,net9

@@ -1,0 +1,36 @@
+netz 1:
+    r1, r2
+netz 2:
+    r2, r3
+netz 3:
+    r3, r4 
+netz 4:
+    r4, r5
+netz 5:
+    r4, r6
+netz 6:
+    r5, r6
+netz 7:
+    r4, r7
+netz 8:
+    r6, r7
+netz 9:
+    r7, r8
+netz 10:
+    r8, r9
+netz 11:
+    r9, r10
+netz 12:
+    r3, r10
+netz 13:
+    r10, r11
+netz 14:
+    r11, r12
+netz 15:
+    r2, r12
+netz 16:
+    r1, r12
+
+
+
+

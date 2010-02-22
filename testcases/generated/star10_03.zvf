@@ -1,0 +1,26 @@
+# star/star10_03
+#
+# longest shortest path: 	10
+# number of cycles: 		1
+# clustering coefficient: 	0.14
+# own clustering coefficient: 	0.142857142857143
+# leaves: 			r6 r11 r1
+# articulations: 		r12 r9 r13 r3 r5 r4 r8 r2 r7 r10
+
+net1,net2,net3,net4,net5,net6,net7,net8,net9,net10,net11,net12,net13,net14,net15
+r1 net1
+r2 net1,net2
+r3 net2,net3
+r4 net3,net4
+r5 net4,net5
+r6 net6
+r7 net6,net7
+r8 net7,net8
+r9 net8,net9
+r10 net9,net10
+r11 net11
+r12 net11,net12
+r13 net12,net13
+r14 net13,net14
+r15 net14,net15
+r16 net5,net10,net15

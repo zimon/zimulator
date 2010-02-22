@@ -1,0 +1,14 @@
+
+Result of run 1
+00:00:09:042536
+TotalPacketCount = 37
+average PacketCount per net = 7.4
+Net1 has most packets: 8
+Net4 has least packets: 6
+TotalTraffic = 2.19140625
+average Traffic per net = 0.43828125
+Net5 has most traffic: 0.5234375
+Net4 has least traffic: 0.34375
+(Starttime = 18:56:18:672160, Stoptime = 18:56:27:714696)
+
+2 5 0 5 5 0.4 9.042536 37 2.19140625 7.4 0.43828125 4 6 1 8 4 0.34375 5 0.5234375 none 0 circle05 rip 1 68178672160 68187714696

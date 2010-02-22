@@ -1,0 +1,56 @@
+Netz 1:
+    r1, r2  
+Netz 2:
+    r2, r3
+Netz 3:
+    r3, r4
+Netz 4:
+    r4, r5
+Netz 5:
+    r5, r6
+Netz 6:
+    r1, r12
+Netz 7:
+    r1, r7
+Netz 8:
+    r3, r8
+Netz 9:
+    r3, r9
+Netz 10:
+    r6, r10
+Netz 11:
+    r6, r11
+Netz 12:
+    r7, r13
+Netz 13:
+    r8, r14
+Netz 14:
+    r9, r17
+Netz 15:
+    r10, r15
+Netz 16:
+    r11, r16
+Netz 17:
+    r15, r17
+Netz 18:
+    r16, r18
+Netz 19:
+    r12, r19
+Netz 20:
+    r13, r20
+Netz 21:
+    r14, r20
+Netz 22:
+    r17, r21
+Netz 23:
+    r18, r24
+Netz 24:
+    r19, r20
+Netz 25:
+    r20, r21
+Netz 26:
+    r21, r22
+Netz 27:
+    r22, r23
+Netz 28:
+    r23, r24

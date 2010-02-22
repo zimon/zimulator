@@ -1,0 +1,21 @@
+# ../../newresults/circlex_rowy/circle5_row4
+#
+# number of vertices: 		9
+# number of edges: 		9
+# diameter: 			6
+# number of cycles: 		1
+# clustering coefficient: 	0.25
+# leaves: 			r9
+# articulations: 		r6 r5 r8 r7
+
+net1,net2,net3,net4,net5,net6,net7,net8,net9
+
+r1 net6,net8
+r2 net4,net6
+r3 net2,net4
+r4 net2,net7
+r5 net7,net8,net9
+r6 net1,net9
+r7 net1,net3
+r8 net3,net5
+r9 net5

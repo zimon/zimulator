@@ -1,0 +1,20 @@
+# circle4_row6
+#
+# diameter: 			8
+# number of cycles: 		1
+# clustering coefficient: 	0.222222222222222
+# leaves: 			r10
+# articulations: 		r8 r9 r6 r5 r7 r4
+
+net1,net2,net3,net4,net5,net6,net7,net8,net9,net10
+
+r1 net7,net9
+r10 net4
+r2 net5,net7
+r3 net2,net5
+r4 net2,net8,net9
+r5 net8,net10
+r6 net1,net10
+r7 net1,net3
+r8 net3,net6
+r9 net4,net6

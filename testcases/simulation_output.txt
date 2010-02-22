@@ -1,0 +1,10 @@
+2 5 0 5 5 0.4 from testcases/simulationtests/circle05.zvf...        none 0   1  
+2 5 0 5 5 0.4          none 0   1  
+2 5 0 5 5 0.4 at Fri Sep 18 14:45:55 with rip   none 0   1  
+2 5 0 5 5 0.4 exiting now        none 0   1  
+2 5 0 5 5 0.4 0  0  0   0 0 none 0   done:  
+2 5 0 5 5 0.4 0  0  0   0 0 none 0   failed:  
+2 5 0 5 5 0.4          none 0   1  
+2 5 0 5 5 0.4 dumps!!!         none 0   1  
+2 5 0 5 5 0.4          none 0   1  
+2 5 0 5 5 0.4 49.12294 74 5.30078125 1 0.0716321790540541 11 17 0.7734375 1.2734375 none 0 circle05 rip 1 53395437155 53444560095

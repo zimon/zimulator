@@ -1,0 +1,18 @@
+# zufallbeispiel
+#
+# diameter: 			3
+# number of cycles: 		7
+# clustering coefficient: 	0.416666666666667
+# leaves: 			r4
+# articulations: 		r2
+
+net1,net2,net3,net4,net5,net6,net7,net8,net9,net10,net11,net12,net13,net14,net15
+r1 net2,net3,net5
+r2 net10,net11,net13,net15
+r3 net1,net7,net14
+r4 net11
+r5 net4,net5,net8,net9,net10,net12
+r6 net4,net6
+r7 net2,net6,net7,net12,net13
+r8 net3,net9,net14,net15
+r9 net1,net8

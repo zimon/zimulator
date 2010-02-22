@@ -1,0 +1,301 @@
+recalculating 20 runs:
+recalculating run 1
+
+Result of run 1
+00:00:09:042536
+TotalPacketCount = 37
+average PacketCount per net = 7.4
+Net1 has most packets: 8
+Net4 has least packets: 6
+TotalTraffic = 2.19140625
+average Traffic per net = 0.43828125
+Net5 has most traffic: 0.5234375
+Net4 has least traffic: 0.34375
+(Starttime = 18:56:18:672160, Stoptime = 18:56:27:714696)
+
+recalculating run 2
+
+Result of run 2
+00:00:10:053701
+TotalPacketCount = 43
+average PacketCount per net = 8.6
+Net1 has most packets: 10
+Net4 has least packets: 7
+TotalTraffic = 2.515625
+average Traffic per net = 0.503125
+Net1 has most traffic: 0.56640625
+Net2 has least traffic: 0.4453125
+(Starttime = 18:57:25:275264, Stoptime = 18:57:35:328965)
+
+recalculating run 3
+
+Result of run 3
+00:00:10:057606
+TotalPacketCount = 38
+average PacketCount per net = 7.6
+Net1 has most packets: 8
+Net4 has least packets: 7
+TotalTraffic = 2.3203125
+average Traffic per net = 0.4640625
+Net3 has most traffic: 0.50390625
+Net4 has least traffic: 0.4140625
+(Starttime = 18:58:31:858129, Stoptime = 18:58:41:915735)
+
+recalculating run 4
+
+Result of run 4
+00:00:07:056643
+TotalPacketCount = 41
+average PacketCount per net = 8.2
+Net1 has most packets: 9
+Net2 has least packets: 7
+TotalTraffic = 2.47265625
+average Traffic per net = 0.49453125
+Net1 has most traffic: 0.53515625
+Net2 has least traffic: 0.43359375
+(Starttime = 18:59:38:323239, Stoptime = 18:59:45:379882)
+
+recalculating run 5
+
+Result of run 5
+00:00:08:079917
+TotalPacketCount = 41
+average PacketCount per net = 8.2
+Net1 has most packets: 9
+Net2 has least packets: 8
+TotalTraffic = 2.43359375
+average Traffic per net = 0.48671875
+Net1 has most traffic: 0.515625
+Net2 has least traffic: 0.46484375
+(Starttime = 19:00:44:744729, Stoptime = 19:00:52:824646)
+
+recalculating run 6
+
+Result of run 6
+00:00:10:041855
+TotalPacketCount = 41
+average PacketCount per net = 8.2
+Net1 has most packets: 9
+Net4 has least packets: 7
+TotalTraffic = 2.4140625
+average Traffic per net = 0.4828125
+Net1 has most traffic: 0.515625
+Net2 has least traffic: 0.4453125
+(Starttime = 19:01:51:353095, Stoptime = 19:02:01:394950)
+
+recalculating run 7
+
+Result of run 7
+00:00:09:034092
+TotalPacketCount = 42
+average PacketCount per net = 8.4
+Net1 has most packets: 9
+Net3 has least packets: 8
+TotalTraffic = 2.54296875
+average Traffic per net = 0.50859375
+Net4 has most traffic: 0.5234375
+Net2 has least traffic: 0.49609375
+(Starttime = 19:02:57:817926, Stoptime = 19:03:06:852018)
+
+recalculating run 8
+
+Result of run 8
+00:00:07:056659
+TotalPacketCount = 37
+average PacketCount per net = 7.4
+Net1 has most packets: 9
+Net2 has least packets: 7
+TotalTraffic = 2.23046875
+average Traffic per net = 0.44609375
+Net1 has most traffic: 0.515625
+Net2 has least traffic: 0.39453125
+(Starttime = 19:04:04:284003, Stoptime = 19:04:11:340662)
+
+recalculating run 9
+
+Result of run 9
+00:00:08:048976
+TotalPacketCount = 42
+average PacketCount per net = 8.4
+Net1 has most packets: 9
+Net2 has least packets: 8
+TotalTraffic = 2.4453125
+average Traffic per net = 0.4890625
+Net1 has most traffic: 0.515625
+Net2 has least traffic: 0.4453125
+(Starttime = 19:05:10:742942, Stoptime = 19:05:18:791918)
+
+recalculating run 10
+
+Result of run 10
+00:00:11:041697
+TotalPacketCount = 40
+average PacketCount per net = 8
+Net2 has most packets: 9
+Net4 has least packets: 6
+TotalTraffic = 2.34375
+average Traffic per net = 0.46875
+Net5 has most traffic: 0.57421875
+Net4 has least traffic: 0.34375
+(Starttime = 19:06:17:185000, Stoptime = 19:06:28:226697)
+
+recalculating run 11
+
+Result of run 11
+00:00:08:071107
+TotalPacketCount = 41
+average PacketCount per net = 8.2
+Net2 has most packets: 9
+Net4 has least packets: 7
+TotalTraffic = 2.47265625
+average Traffic per net = 0.49453125
+Net5 has most traffic: 0.54296875
+Net4 has least traffic: 0.4140625
+(Starttime = 19:07:23:635766, Stoptime = 19:07:31:706873)
+
+recalculating run 12
+
+Result of run 12
+00:00:08:045674
+TotalPacketCount = 41
+average PacketCount per net = 8.2
+Net1 has most packets: 9
+Net2 has least packets: 8
+TotalTraffic = 2.43359375
+average Traffic per net = 0.48671875
+Net1 has most traffic: 0.515625
+Net2 has least traffic: 0.4453125
+(Starttime = 19:08:30:213110, Stoptime = 19:08:38:258785)
+
+recalculating run 13
+
+Result of run 13
+00:00:08:060193
+TotalPacketCount = 38
+average PacketCount per net = 7.6
+Net1 has most packets: 8
+Net3 has least packets: 7
+TotalTraffic = 2.359375
+average Traffic per net = 0.471875
+Net3 has most traffic: 0.4921875
+Net1 has least traffic: 0.4453125
+(Starttime = 19:09:36:592651, Stoptime = 19:09:44:652844)
+
+recalculating run 14
+
+Result of run 14
+00:00:09:048682
+TotalPacketCount = 42
+average PacketCount per net = 8.4
+Net1 has most packets: 9
+Net2 has least packets: 8
+TotalTraffic = 2.5234375
+average Traffic per net = 0.5046875
+Net5 has most traffic: 0.5546875
+Net2 has least traffic: 0.46484375
+(Starttime = 19:10:43:189511, Stoptime = 19:10:52:238193)
+
+recalculating run 15
+
+Result of run 15
+00:00:07:035871
+TotalPacketCount = 41
+average PacketCount per net = 8.2
+Net1 has most packets: 9
+Net4 has least packets: 7
+TotalTraffic = 2.453125
+average Traffic per net = 0.490625
+Net1 has most traffic: 0.515625
+Net2 has least traffic: 0.46484375
+(Starttime = 19:11:49:746421, Stoptime = 19:11:56:782292)
+
+recalculating run 16
+
+Result of run 16
+00:00:10:064272
+TotalPacketCount = 43
+average PacketCount per net = 8.6
+Net1 has most packets: 10
+Net2 has least packets: 8
+TotalTraffic = 2.57421875
+average Traffic per net = 0.51484375
+Net4 has most traffic: 0.59375
+Net2 has least traffic: 0.4453125
+(Starttime = 19:12:56:271225, Stoptime = 19:13:06:335497)
+
+recalculating run 17
+
+Result of run 17
+00:00:07:064229
+TotalPacketCount = 41
+average PacketCount per net = 8.2
+Net1 has most packets: 9
+Net4 has least packets: 7
+TotalTraffic = 2.47265625
+average Traffic per net = 0.49453125
+Net3 has most traffic: 0.53515625
+Net2 has least traffic: 0.4453125
+(Starttime = 19:14:02:720354, Stoptime = 19:14:09:784583)
+
+recalculating run 18
+
+Result of run 18
+00:00:11:061903
+TotalPacketCount = 42
+average PacketCount per net = 8.4
+Net1 has most packets: 9
+Net2 has least packets: 7
+TotalTraffic = 2.5234375
+average Traffic per net = 0.5046875
+Net4 has most traffic: 0.5546875
+Net2 has least traffic: 0.43359375
+(Starttime = 19:15:09:131437, Stoptime = 19:15:20:193340)
+
+recalculating run 19
+
+Result of run 19
+00:00:09:055659
+TotalPacketCount = 40
+average PacketCount per net = 8
+Net1 has most packets: 9
+Net4 has least packets: 7
+TotalTraffic = 2.421875
+average Traffic per net = 0.484375
+Net1 has most traffic: 0.515625
+Net2 has least traffic: 0.4453125
+(Starttime = 19:16:15:583563, Stoptime = 19:16:24:639222)
+
+recalculating run 20
+
+Result of run 20
+00:00:10:049584
+TotalPacketCount = 41
+average PacketCount per net = 8.2
+Net1 has most packets: 9
+Net2 has least packets: 7
+TotalTraffic = 2.4921875
+average Traffic per net = 0.4984375
+Net3 has most traffic: 0.59375
+Net2 has least traffic: 0.43359375
+(Starttime = 19:25:31:378133, Stoptime = 19:25:41:427717)
+
+2 5 0 5 5 0.4 9.042536 37 2.19140625 7.4 0.43828125 4 6 1 8 4 0.34375 5 0.5234375 none 0 circle05 rip 1 68178672160 68187714696
+2 5 0 5 5 0.4 10.053701 43 2.515625 8.6 0.503125 4 7 1 10 2 0.4453125 1 0.56640625 none 0 circle05 rip 2 68245275264 68255328965
+2 5 0 5 5 0.4 10.057606 38 2.3203125 7.6 0.4640625 4 7 1 8 4 0.4140625 3 0.50390625 none 0 circle05 rip 3 68311858129 68321915735
+2 5 0 5 5 0.4 7.056643 41 2.47265625 8.2 0.49453125 2 7 1 9 2 0.43359375 1 0.53515625 none 0 circle05 rip 4 68378323239 68385379882
+2 5 0 5 5 0.4 8.079917 41 2.43359375 8.2 0.48671875 2 8 1 9 2 0.46484375 1 0.515625 none 0 circle05 rip 5 68444744729 68452824646
+2 5 0 5 5 0.4 10.041855 41 2.4140625 8.2 0.4828125 4 7 1 9 2 0.4453125 1 0.515625 none 0 circle05 rip 6 68511353095 68521394950
+2 5 0 5 5 0.4 9.034092 42 2.54296875 8.4 0.50859375 3 8 1 9 2 0.49609375 4 0.5234375 none 0 circle05 rip 7 68577817926 68586852018
+2 5 0 5 5 0.4 7.056659 37 2.23046875 7.4 0.44609375 2 7 1 9 2 0.39453125 1 0.515625 none 0 circle05 rip 8 68644284003 68651340662
+2 5 0 5 5 0.4 8.048976 42 2.4453125 8.4 0.4890625 2 8 1 9 2 0.4453125 1 0.515625 none 0 circle05 rip 9 68710742942 68718791918
+2 5 0 5 5 0.4 11.041697 40 2.34375 8 0.46875 4 6 2 9 4 0.34375 5 0.57421875 none 0 circle05 rip 10 68777185000 68788226697
+2 5 0 5 5 0.4 8.071107 41 2.47265625 8.2 0.49453125 4 7 2 9 4 0.4140625 5 0.54296875 none 0 circle05 rip 11 68843635766 68851706873
+2 5 0 5 5 0.4 8.045675 41 2.43359375 8.2 0.48671875 2 8 1 9 2 0.4453125 1 0.515625 none 0 circle05 rip 12 68910213110 68918258785
+2 5 0 5 5 0.4 8.060193 38 2.359375 7.6 0.471875 3 7 1 8 1 0.4453125 3 0.4921875 none 0 circle05 rip 13 68976592651 68984652844
+2 5 0 5 5 0.4 9.048682 42 2.5234375 8.4 0.5046875 2 8 1 9 2 0.46484375 5 0.5546875 none 0 circle05 rip 14 69043189511 69052238193
+2 5 0 5 5 0.4 7.035871 41 2.453125 8.2 0.490625 4 7 1 9 2 0.46484375 1 0.515625 none 0 circle05 rip 15 69109746421 69116782292
+2 5 0 5 5 0.4 10.064272 43 2.57421875 8.6 0.51484375 2 8 1 10 2 0.4453125 4 0.59375 none 0 circle05 rip 16 69176271225 69186335497
+2 5 0 5 5 0.4 7.064229 41 2.47265625 8.2 0.49453125 4 7 1 9 2 0.4453125 3 0.53515625 none 0 circle05 rip 17 69242720354 69249784583
+2 5 0 5 5 0.4 11.061903 42 2.5234375 8.4 0.5046875 2 7 1 9 2 0.43359375 4 0.5546875 none 0 circle05 rip 18 69309131437 69320193340
+2 5 0 5 5 0.4 9.055659 40 2.421875 8 0.484375 4 7 1 9 2 0.4453125 1 0.515625 none 0 circle05 rip 19 69375583563 69384639222
+2 5 0 5 5 0.4 10.049584 41 2.4921875 8.2 0.4984375 2 7 1 9 2 0.43359375 3 0.59375 none 0 circle05 rip 1 69931378133 69941427717

@@ -1,0 +1,24 @@
+# internet2_new
+#
+# number of vertices: 		12
+# number of edges: 		16
+# diameter: 			5
+# number of cycles: 		5
+# clustering coefficient: 	0.242424242424242
+# leaves: 			
+# articulations: 		
+
+net1,net10,net11,net12,net13,net14,net15,net16,net2,net3,net4,net5,net6,net7,net8,net9
+
+r1 net1,net16
+r2 net1,net15,net2
+r3 net12,net2,net3
+r4 net3,net4,net5,net7
+r5 net4,net6
+r6 net5,net6,net8
+r7 net7,net8,net9
+r8 net10,net9
+r9 net10,net11
+r10 net11,net12,net13
+r11 net13,net14
+r12 net14,net15,net16

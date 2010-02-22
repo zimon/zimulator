@@ -1,0 +1,42 @@
+# star2_30
+#
+# number of vertices: 		30
+# number of edges: 		29
+# diameter: 			2
+# number of cycles: 		0
+# clustering coefficient: 	0.0666666666666667
+# leaves: 			r9 r3 r18 r17 r24 r4 r27 r8 r11 r21 r25 r22 r1 r20 r12 r29 r6 r13 r23 r5 r14 r28 r15 r16 r2 r7 r10 r26 r19
+# articulations: 		r30
+
+net1,net10,net11,net12,net13,net14,net15,net16,net17,net18,net19,net2,net20,net21,net22,net23,net24,net25,net26,net27,net28,net29,net3,net4,net5,net6,net7,net8,net9
+ 
+r1 net1
+r10 net10
+r11 net11
+r12 net12
+r13 net13
+r14 net14
+r15 net15
+r16 net16
+r17 net17
+r18 net18
+r19 net19
+r2 net2
+r20 net20
+r21 net21
+r22 net22
+r23 net23
+r24 net24
+r25 net25
+r26 net26
+r27 net27
+r28 net28
+r29 net29
+r3 net3
+r30 net1,net10,net11,net12,net13,net14,net15,net16,net17,net18,net19,net2,net20,net21,net22,net23,net24,net25,net26,net27,net28,net29,net3,net4,net5,net6,net7,net8,net9
+r4 net4
+r5 net5
+r6 net6
+r7 net7
+r8 net8
+r9 net9

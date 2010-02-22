@@ -1,0 +1,27 @@
+# star4_08
+#
+# longest shortest path: 	4
+# number of cycles: 		0
+# clustering coefficient: 	0
+# own clustering coefficient: 	0.117647058823529
+# leaves: 			r9 r3 r11 r1 r13 r5 r15 r7
+# articulations: 		r12 r6 r17 r14 r4 r8 r16 r2 r10
+
+net1,net2,net3,net4,net5,net6,net7,net8,net9,net10,net11,net12,net13,net14,net15,net16
+r1 net1
+r2 net1,net2
+r3 net3
+r4 net3,net4
+r5 net5
+r6 net5,net6
+r7 net7
+r8 net7,net8
+r9 net9
+r10 net9,net10
+r11 net11
+r12 net11,net12
+r13 net13
+r14 net13,net14
+r15 net15
+r16 net15,net16
+r17 net2,net4,net6,net8,net10,net12,net14,net16

@@ -1,0 +1,32 @@
+# connectedstar2_20
+#
+# number of vertices: 		20
+# number of edges: 		38
+# diameter: 			2
+# number of cycles: 		19
+# clustering coefficient: 	0.2
+# leaves: 			
+# articulations: 		
+
+net1,net10,net11,net12,net13,net14,net15,net16,net17,net18,net19,net2,net20,net21,net22,net23,net24,net25,net26,net27,net28,net29,net3,net30,net31,net32,net33,net34,net35,net36,net37,net38,net4,net5,net6,net7,net8,net9
+
+r1 net10,net13,net4
+r10 net20,net35,net38
+r11 net3,net38,net7
+r12 net26,net3,net36
+r13 net21,net24,net26
+r14 net19,net24,net27
+r15 net1,net27,net37
+r16 net1,net16,net2
+r17 net2,net32,net33
+r18 net12,net32,net5
+r19 net18,net4,net5
+r2 net10,net11,net34
+r20 net11,net12,net13,net15,net16,net18,net19,net20,net21,net22,net23,net28,net29,net30,net33,net36,net37,net7,net9
+r3 net25,net34,net9
+r4 net17,net22,net25
+r5 net17,net23,net8
+r6 net15,net6,net8
+r7 net30,net31,net6
+r8 net14,net29,net31
+r9 net14,net28,net35

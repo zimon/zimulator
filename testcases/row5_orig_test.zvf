@@ -1,0 +1,17 @@
+# row5_test
+#
+# number of vertices: 		5
+# number of edges: 		4
+# diameter: 			4
+# number of cycles: 		0
+# clustering coefficient: 	0.333333333333333
+# leaves: 			r5 r1
+# articulations: 		r3 r2 r4
+
+net1,net2,net3,net4
+
+r1 net1
+r2 net1,net2
+r3 net2,net3
+r4 net3,net4
+r5 net4

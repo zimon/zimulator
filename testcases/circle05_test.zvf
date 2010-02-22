@@ -1,0 +1,17 @@
+# circle05
+#
+# number of vertices: 		5
+# number of edges: 		5
+# diameter: 			2
+# number of cycles: 		1
+# clustering coefficient: 	0.5
+# leaves: 			
+# articulations: 		
+
+net1,net2,net3,net4,net5
+
+r1 net1,net5
+r2 net1,net2
+r3 net2,net3
+r4 net3,net4
+r5 net4,net5

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <!DOCTYPE vnuml SYSTEM "/usr/local/share/xml/vnuml/vnuml.dtd">
+
+    <vnuml>
+      <global>
+        <version>1.8</version>
+        <simulation_name>circle05</simulation_name>
+        <ssh_version>2</ssh_version>
+        <ssh_key>/root/.ssh/id_rsa.pub</ssh_key>
+        <automac/>
+        <vm_mgmt type="private" network="192.168.0.0" mask="24" offset="100" >
+           <host_mapping/>
+        </vm_mgmt>
+        <vm_defaults  exec_mode="mconsole">
+           <filesystem type="cow">/usr/local/share/vnuml/filesystems/mini_fs</filesystem>
+           <kernel>/usr/local/share/vnuml/kernels/linux</kernel>
+        </vm_defaults>
+      </global>
+
+
+<net name="net1" mode="virtual_bridge"/>
+<net name="net2" mode="virtual_bridge"/>
+<net name="net3" mode="virtual_bridge"/>
+<net name="net4" mode="virtual_bridge"/>
+<net name="net5" mode="virtual_bridge"/>
+
+
+<vm name="r1">
+  <if id="1" net="net1">
+    <ipv4 mask="255.255.255.0">10.0.1.1</ipv4>
+</if>
+  <if id="2" net="net5">
+    <ipv4 mask="255.255.255.0">10.0.5.1</ipv4>
+</if>
+
+<forwarding type="ipv4" />
+
+        <filetree root="/etc/quagga" seq="start">conf</filetree>
+          <exec seq="start" type="verbatim">sysctl -w net.ipv4.conf.all.rp_filter=0</exec>
+          <exec seq="start" type="verbatim">hostname</exec>
+          <exec seq="start" type="verbatim">/usr/lib/quagga/zebra -f /etc/quagga/zebra.conf -d</exec>
+          <exec seq="rip" type="verbatim">/usr/lib/quagga/ripd -f /etc/quagga/ripd.conf -d</exec>
+          <exec seq="ospf" type="verbatim">/usr/lib/quagga/ospfd -f /etc/quagga/ospfd.conf -d -P 2604</exec>
+          <exec seq="stop" type="verbatim">hostname</exec>
+          <exec seq="stop" type="verbatim">killall zebra</exec>
+          <exec seq="stop" type="verbatim">killall ripd</exec>
+          <exec seq="stop" type="verbatim">killall ospfd</exec>
+
+          <exec seq="rpfilter" type= "verbatim">
+          for f in /proc/sys/net/ipv4/conf/*/rp_filter; do echo 0 > $f; done
+          </exec>
+        </vm>
+
+
+<vm name="r2">
+  <if id="1" net="net1">
+    <ipv4 mask="255.255.255.0">10.0.1.2</ipv4>
+</if>
+  <if id="2" net="net2">
+    <ipv4 mask="255.255.255.0">10.0.2.2</ipv4>
+</if>
+
+<forwarding type="ipv4" />
+
+        <filetree root="/etc/quagga" seq="start">conf</filetree>
+          <exec seq="start" type="verbatim">sysctl -w net.ipv4.conf.all.rp_filter=0</exec>
+          <exec seq="start" type="verbatim">hostname</exec>
+          <exec seq="start" type="verbatim">/usr/lib/quagga/zebra -f /etc/quagga/zebra.conf -d</exec>
+          <exec seq="rip" type="verbatim">/usr/lib/quagga/ripd -f /etc/quagga/ripd.conf -d</exec>
+          <exec seq="ospf" type="verbatim">/usr/lib/quagga/ospfd -f /etc/quagga/ospfd.conf -d -P 2604</exec>
+          <exec seq="stop" type="verbatim">hostname</exec>
+          <exec seq="stop" type="verbatim">killall zebra</exec>
+          <exec seq="stop" type="verbatim">killall ripd</exec>
+          <exec seq="stop" type="verbatim">killall ospfd</exec>
+
+          <exec seq="rpfilter" type= "verbatim">
+          for f in /proc/sys/net/ipv4/conf/*/rp_filter; do echo 0 > $f; done
+          </exec>
+        </vm>
+
+
+<vm name="r3">
+  <if id="1" net="net2">
+    <ipv4 mask="255.255.255.0">10.0.2.3</ipv4>
+</if>
+  <if id="2" net="net3">
+    <ipv4 mask="255.255.255.0">10.0.3.3</ipv4>
+</if>
+
+<forwarding type="ipv4" />
+
+        <filetree root="/etc/quagga" seq="start">conf</filetree>
+          <exec seq="start" type="verbatim">sysctl -w net.ipv4.conf.all.rp_filter=0</exec>
+          <exec seq="start" type="verbatim">hostname</exec>
+          <exec seq="start" type="verbatim">/usr/lib/quagga/zebra -f /etc/quagga/zebra.conf -d</exec>
+          <exec seq="rip" type="verbatim">/usr/lib/quagga/ripd -f /etc/quagga/ripd.conf -d</exec>
+          <exec seq="ospf" type="verbatim">/usr/lib/quagga/ospfd -f /etc/quagga/ospfd.conf -d -P 2604</exec>
+          <exec seq="stop" type="verbatim">hostname</exec>
+          <exec seq="stop" type="verbatim">killall zebra</exec>
+          <exec seq="stop" type="verbatim">killall ripd</exec>
+          <exec seq="stop" type="verbatim">killall ospfd</exec>
+
+          <exec seq="rpfilter" type= "verbatim">
+          for f in /proc/sys/net/ipv4/conf/*/rp_filter; do echo 0 > $f; done
+          </exec>
+        </vm>
+
+
+<vm name="r4">
+  <if id="1" net="net3">
+    <ipv4 mask="255.255.255.0">10.0.3.4</ipv4>
+</if>
+  <if id="2" net="net4">
+    <ipv4 mask="255.255.255.0">10.0.4.4</ipv4>
+</if>
+
+<forwarding type="ipv4" />
+
+        <filetree root="/etc/quagga" seq="start">conf</filetree>
+          <exec seq="start" type="verbatim">sysctl -w net.ipv4.conf.all.rp_filter=0</exec>
+          <exec seq="start" type="verbatim">hostname</exec>
+          <exec seq="start" type="verbatim">/usr/lib/quagga/zebra -f /etc/quagga/zebra.conf -d</exec>
+          <exec seq="rip" type="verbatim">/usr/lib/quagga/ripd -f /etc/quagga/ripd.conf -d</exec>
+          <exec seq="ospf" type="verbatim">/usr/lib/quagga/ospfd -f /etc/quagga/ospfd.conf -d -P 2604</exec>
+          <exec seq="stop" type="verbatim">hostname</exec>
+          <exec seq="stop" type="verbatim">killall zebra</exec>
+          <exec seq="stop" type="verbatim">killall ripd</exec>
+          <exec seq="stop" type="verbatim">killall ospfd</exec>
+
+          <exec seq="rpfilter" type= "verbatim">
+          for f in /proc/sys/net/ipv4/conf/*/rp_filter; do echo 0 > $f; done
+          </exec>
+        </vm>
+
+
+<vm name="r5">
+  <if id="1" net="net4">
+    <ipv4 mask="255.255.255.0">10.0.4.5</ipv4>
+</if>
+  <if id="2" net="net5">
+    <ipv4 mask="255.255.255.0">10.0.5.5</ipv4>
+</if>
+
+<forwarding type="ipv4" />
+
+        <filetree root="/etc/quagga" seq="start">conf</filetree>
+          <exec seq="start" type="verbatim">sysctl -w net.ipv4.conf.all.rp_filter=0</exec>
+          <exec seq="start" type="verbatim">hostname</exec>
+          <exec seq="start" type="verbatim">/usr/lib/quagga/zebra -f /etc/quagga/zebra.conf -d</exec>
+          <exec seq="rip" type="verbatim">/usr/lib/quagga/ripd -f /etc/quagga/ripd.conf -d</exec>
+          <exec seq="ospf" type="verbatim">/usr/lib/quagga/ospfd -f /etc/quagga/ospfd.conf -d -P 2604</exec>
+          <exec seq="stop" type="verbatim">hostname</exec>
+          <exec seq="stop" type="verbatim">killall zebra</exec>
+          <exec seq="stop" type="verbatim">killall ripd</exec>
+          <exec seq="stop" type="verbatim">killall ospfd</exec>
+
+          <exec seq="rpfilter" type= "verbatim">
+          for f in /proc/sys/net/ipv4/conf/*/rp_filter; do echo 0 > $f; done
+          </exec>
+        </vm>
+
+
+
+</vnuml>

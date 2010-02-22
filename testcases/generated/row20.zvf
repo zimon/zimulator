@@ -1,0 +1,30 @@
+# ../row20
+#
+# longest shortest path: 	19
+# number of cycles: 		0
+# clustering coefficient: 	0
+# own clustering coefficient: 	0.1
+# leaves: 			r1 r20
+# articulations: 		r9 r18 r3 r17 r4 r8 r11 r12 r13 r6 r5 r14 r15 r16 r2 r7 r10 r19
+
+net1,net2,net3,net4,net5,net6,net7,net8,net9,net10,net11,net12,net13,net14,net15,net16,net17,net18,net19
+r1 net1
+r2 net1,net2
+r3 net2,net3
+r4 net3,net4
+r5 net4,net5
+r6 net5,net6
+r7 net6,net7
+r8 net7,net8
+r9 net8,net9
+r10 net9,net10
+r11 net10,net11
+r12 net11,net12
+r13 net12,net13
+r14 net13,net14
+r15 net14,net15
+r16 net15,net16
+r17 net16,net17
+r18 net17,net18
+r19 net18,net19
+r20 net19

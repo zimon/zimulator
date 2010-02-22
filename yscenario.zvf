@@ -1,0 +1,6 @@
+net1,net2,net3,net4,net5
+r1 net1,net3
+r2 net1,net2
+r3 net2,net3,net4
+r4 net4,net5
+r5 net5
