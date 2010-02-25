@@ -1,0 +1,10 @@
+circle
+connectedstar2
+mesh
+row
+rowplus1
+square
+squarerow
+star2
+star4
+star6
