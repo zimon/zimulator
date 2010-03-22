@@ -10,7 +10,7 @@ use strict;
 use lib "modules";
 use Configuration;
 
-my $configuration = Configuration::instance($opts{"c"});
+my $configuration = Configuration::instance();
 
 my $configfile = shift;
 open(FILE,"<$configfile");
