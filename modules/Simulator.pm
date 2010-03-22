@@ -69,7 +69,7 @@ sub simulate {#{{{
 
         # if run succeeded and there was a dump, parse it
         if($success){
-            my $testCaseFile = $object->{SCENARIO}->gettestCaseFile();
+            my $testCaseFile = $object->{SCENARIO}->getTestCaseFile();
             if($testCaseFile->getFirstLineGrep("tcpdump") or $testCaseFile->getFirstLineGrep("all")){
                 my $dumpDirectory = $object->_moveDumpFiles($runCount);
                 #print "dumpDirectory = $dumpDirectory\n";

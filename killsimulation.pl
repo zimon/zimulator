@@ -8,7 +8,9 @@ use warnings;
 use strict;
 
 use lib "modules";
-use Constants;
+use Configuration;
+
+my $configuration = Configuration::instance($opts{"c"});
 
 my $configfile = shift;
 open(FILE,"<$configfile");
@@ -26,4 +28,4 @@ foreach my $line (@lines){
 system("killall zimulator.pl");
 system("killall -s 9 vnumlparser.pl");
 system("rm ~/.vnuml/LOCK");
-system(Constants::VNUML_PATH."/vnumlparser.pl ".Constants::VNUML_STOP_PARAMETERS." $scenarioName.xml");
+system($configuration->getOption("VNUML_PATH")."/vnumlparser.pl ".$configuration->getOption("VNUML_STOP_PARAMETERS")." $scenarioName.xml");
