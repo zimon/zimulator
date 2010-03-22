@@ -1,4 +1,4 @@
-package ResultFile;
+package TestCaseFile;
 @ISA=("File");
 
 
