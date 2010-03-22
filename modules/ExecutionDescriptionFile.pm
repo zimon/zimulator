@@ -1,4 +1,4 @@
-package ResultFile;
+package ExecutionDescriptionFile;
 @ISA=("File");
 
 
