@@ -6,6 +6,7 @@ use warnings;
 use Test::More tests => 10;
 use Carp;
 use lib "../modules";
+use Parser;
 use RIPParser;
 use RIPPacket;
 use Utilities;

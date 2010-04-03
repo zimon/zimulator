@@ -7,6 +7,7 @@ use warnings;
 use strict;
 
 use lib "modules";
+use Parser;
 use RIPParser;
 use Utilities;
 use Topology;
@@ -260,12 +261,6 @@ sub getResultLine {#{{{
 
     my %properties = $topology->getGraphProperties();
     my $leaves = @{$properties{LEAVES}};
-    my $time = $result{TIMETOCONVERGENCE};
-    my $traffic = $result{TOTALTRAFFIC};
-    my $avgTraffic = $result{AVERAGETRAFFIC};
-    my $minTraffic = $result{MINTRAFFIC};
-    my $maxTraffic = $result{MAXTRAFFIC};
-
 
     # syntax: (has changed now)
     # d v l iv e cc time packets traffic avgpackets avgtraffic minpackets maxpackets mintraffic maxtraffic # fail failureTime topologyname protocol runcount firsttimestamp lasttimestamp
@@ -277,22 +272,22 @@ sub getResultLine {#{{{
     $resultLine .= ($properties{VERTICES}-$leaves)." "; # 4
     $resultLine .= $properties{EDGES}." ";              # 5
     $resultLine .= $properties{CC}." ";                 # 6
-    $resultLine .= $time." ";                           # 7
+    $resultLine .= $result{TIMETOCONVERGENCE}." ";      # 7
     $resultLine .= $result{TOTALPACKETCOUNT}." ";       # 8
-    $resultLine .= $traffic." ";                        # 9
+    $resultLine .= $result{TOTALTRAFFIC}." ";           # 9
     $resultLine .= $result{AVERAGEPACKETCOUNT}." ";     # 10
-    $resultLine .= $avgTraffic." ";                     # 11
+    $resultLine .= $result{AVERAGETRAFFIC}." ";         # 11
     $resultLine .= $result{LEASTPACKETSNET}." ";        # 12
     $resultLine .= $result{LEASTPACKETSNETCOUNT}." ";   # 13
     $resultLine .= $result{MOSTPACKETSNET}." ";         # 14
     $resultLine .= $result{MOSTPACKETSNETCOUNT}." ";    # 15
     $resultLine .= $result{MINTRAFFICNET}." ";          # 16
-    $resultLine .= $minTraffic." ";                     # 17
+    $resultLine .= $result{MINTRAFFIC}." ";             # 17
     $resultLine .= $result{MAXTRAFFICNET}." ";          # 18
-    $resultLine .= $maxTraffic." ";                     # 19
+    $resultLine .= $result{MAXTRAFFIC}." ";             # 19
     $resultLine .= $fail." ";                           # 20
-    $resultLine .= $failureTime." ";                    # 21
-    $resultLine .= $topologyName." ";                   # 22
+    $resultLine .= $result{FAILURETIME}." ";            # 21
+    $resultLine .= $result{TOPOLOGYNAME}." ";           # 22
     $resultLine .= $result{PROTOCOL}." ";               # 23
     $resultLine .= $internRunCount." ";                 # 24
     $resultLine .= $result{FIRSTTIMESTAMP}." ";         # 25

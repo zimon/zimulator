@@ -3,6 +3,7 @@
 #
 # Provides functions to parse tcpdumps and calculate convergence properties
 package RIPParser;
+@ISA=("Parser");
 
 use warnings;
 use strict;

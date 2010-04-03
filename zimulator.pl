@@ -56,6 +56,7 @@ use TopologyFile;
 use DumpFile;
 use ResultFile;
 use ExecutionDescriptionFile;
+use Parser;
 use RIPParser;
 use Simulator;
 use Topology;
